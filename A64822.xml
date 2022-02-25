@@ -1,0 +1,916 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The new command renew'd, or, Love one another being an endeavour after the unity of the spirit in the bond of peace, by several uniting principles, among which there are ten rules for a right understanding of scripture, very useful for these divided times / by Ralph Venning.</title>
+            <author>Venning, Ralph, 1621?-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 98 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64822</idno>
+            <idno type="STC">Wing V214</idno>
+            <idno type="STC">ESTC R3161</idno>
+            <idno type="EEBO-CITATION">12131549</idno>
+            <idno type="OCLC">ocm 12131549</idno>
+            <idno type="VID">54734</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54734)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 881:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The new command renew'd, or, Love one another being an endeavour after the unity of the spirit in the bond of peace, by several uniting principles, among which there are ten rules for a right understanding of scripture, very useful for these divided times / by Ralph Venning.</title>
+                  <author>Venning, Ralph, 1621?-1674.</author>
+               </titleStmt>
+               <extent>[2], 50, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Rothwell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Theology, Doctrinal --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54734:1"/>
+            <pb facs="tcp:54734:1" rendition="simple:additions"/>
+            <p>The New COMMAND RENEW'D: OR, <hi>Love one another.</hi> Being an Endeavour after the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of the Spirit in the Bond of <hi>Peace,</hi> by ſeveral <hi>
+                  <g ref="char:V">Ʋ</g>niting Principles.</hi> Among which there are <hi>ten Rules</hi> for a <hi>Right underſtanding</hi> of <hi>Scripture,</hi> very uſeful for theſe divided times. By RALPH VENNING.</p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 133.1.</hi>
+               </bibl> Behold, how good and how pleaſant it is, for brethren to dwell to<g ref="char:EOLhyphen"/>gether in <g ref="char:V">Ʋ</g>nity.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Rothwell,</hi> at the Sunne and Foun<g ref="char:EOLhyphen"/>tain in <hi>PAULS</hi> Church-yard. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="preface">
+            <pb facs="tcp:54734:2"/>
+            <pb facs="tcp:54734:2"/>
+            <head>To all who profeſſe love to the <hi>Lord Ieſus,</hi> and yet love not one another, according to his example and command.</head>
+            <opener>
+               <salute>Beloved,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> 
+               <hi>Wiſh I could ſay of you as</hi> Paul <hi>did ſay of the</hi> Theſſalonians,
+<note place="margin">1 Theſ 4.9</note> 1 Theſ. 4.9. as touching bro<g ref="char:EOLhyphen"/>therly love ye need not that I write unto you, ſeeing ye your ſelves are taught of God to love one another. <hi>But alas! there's need, yea ne<g ref="char:EOLhyphen"/>ver more need, that I ſhould write unto you of</hi> brotherly love; <hi>for,
+<note place="margin">1 Cor. 3.3.</note> whereas there is among you envying and ſtrife, and diviſions,</hi> are ye not car<g ref="char:EOLhyphen"/>nal and walk as men? <hi>as taught of men, and not of God.</hi>
+            </p>
+            <p>At quis ego tantis, tantillus ego? <hi>What am I to ſuch an undertaking as this? many</hi> (the unworthieſt of whom I am unworthy to follow) <hi>have gone before me,</hi> calling <hi>you to your calling,</hi> love one another. <hi>But do they not all ſay,</hi> who hath believed our report? to whom is the Arme of the Lord revealed? <hi>Do they not all ſay,</hi> We have laboured in vain? <hi>We have cryed indeed in the</hi> chiefeſt places of concourſe, <hi>yea in</hi> the concourſe of the chiefeſt, <hi>even in the</hi> City
+<note n="*" place="margin">And in the high pla<g ref="char:EOLhyphen"/>ces of the City.</note> 
+               <hi>we have uttered our words, and our lips drop't ſweetneſſe; our voice was</hi> love, love; <hi>live in</hi>
+               <pb n="2" facs="tcp:54734:3"/>love. <hi>But no man regarded; all our counſelt were ſet at nought.</hi>
+            </p>
+            <p>Alas beloved! <hi>what hopes is there left</hi> for me <hi>to prevail? if</hi> Paul<hi>'s, if</hi> Apollo<hi>'s, if</hi> Chriſt's <hi>words have not taken with you, can mine expect to finde</hi> acceptance? <hi>and yet me thinks</hi> I hope beyond hope, <hi>becauſe I know that</hi> God <hi>hath all hearts in his own hand, and can turn them</hi> when <hi>and</hi> by whom <hi>he pleaſeth; therefore though</hi> many <hi>out of their</hi> abundance <hi>have caſt in</hi> much, <hi>I hope my</hi> mite <hi>will not be rejected. I muſt confeſſe I have for a great while forborn,</hi> leſt I ſhould be a reproach and deriſion daily; <hi>but I am now o<g ref="char:EOLhyphen"/>vercome, and that by</hi> importunity, <hi>not ſo much from</hi> without <hi>(which yet was much) as from</hi> within <hi>(which was more): for</hi> theſe words <hi>were within mine heart like a</hi> burning fire <hi>ſhut up, and I was</hi> weary <hi>with forbearing, I could not</hi> contain. <hi>For while I held my peace from</hi> this <hi>good my heart was</hi> hot <hi>within me, and while I was muſing the</hi> fire burnt, <hi>ſo that I could not but
+<note n="*" place="margin">The moſt of theſe heads were preach't at the Tower of London.</note> firſt ſpeak with my tongue, and now with my Pen.</hi>
+            </p>
+            <p>
+               <hi>I ſaid, yea</hi> to my ſelf and others <hi>I often ſaid, I was</hi> few of days, <hi>and therefore I was afraid and</hi> durſt not <hi>ſhew forth mine opinion; I ſaid,</hi> days <hi>ſhould ſpeak, and</hi> multitude of years <hi>ſhould teach wiſdom: but the</hi> ſpirit within <hi>me con<g ref="char:EOLhyphen"/>ſtrained me, and I ſpake and</hi> muſt ſpeak <hi>that I may be refreſhed. My belly!</hi> (ſhould I hold my peace at ſuch a time as this) if this Wine ſhould not have vent, <hi>would be ready to burſt like new Bottles.</hi>
+            </p>
+            <p>
+               <hi>But let me not</hi> (I pray you) <hi>accept</hi> [nor ex<g ref="char:EOLhyphen"/>cept] <hi>any mans perſon, neither let me give</hi> flat<g ref="char:EOLhyphen"/>tering <hi>titles</hi> nor upbraiding language <hi>unto any
+<pb n="3" facs="tcp:54734:3"/>man; ſhould I do ſo, my Maker would ſoon take me away.</hi> I know God would lay it to my charge.</p>
+            <p>
+               <hi>Cenſures</hi> perhaps <hi>I may undergo, and</hi> I indeed <hi>expect it; but not from you: let the world ſcoffe, I care not, having learn't to paſſe</hi> through their good report and bad. <hi>I am not ignorant in what</hi> a narrow way <hi>I walk, how it concerns me</hi> to be cautious, <hi>both what I ſpeak and how: for</hi> who would undertake to moderate the extreme immoderation of our days? <hi>and yet for my own part I am not ſolicitous</hi> (good meaning and in<g ref="char:EOLhyphen"/>nocency are careleſſe, and ſeldome fore-think what to ſay) <hi>my</hi> conſcience, <hi>yea</hi> God <hi>himſelf bears me witneſſe, that I would not write a</hi> Syllable <hi>which ſhould give offence.</hi>
+               <note place="margin">Pſalm 27.11</note> Teach me thy way O Lord, and lead me in a plain path, becauſe of thoſe which obſerve me.</p>
+            <p>
+               <hi>I would willingly</hi> blot out <hi>any expreſſion which might be</hi> liable <hi>to ſuſpition; for truly</hi> (as <hi>Caeſar</hi> ſaid concerning his wife) <hi>it is not enough not</hi> to be <hi>in fault; but things relating to love,</hi> (as <hi>Caeſars</hi> wife) ſhould not be ſuſpected <hi>to be in fault; I hope therefore if any thing do</hi> (ſee<g ref="char:EOLhyphen"/>ing it is againſt my will if any thing do) <hi>eſcape me, which may ſeem to deviate from the ſcope,</hi> viz. <hi>love, that your love</hi> (for love of that which I write for and from, <hi>viz.</hi> love) <hi>will cover it with a</hi> charitable <hi>conſtruction.</hi>
+            </p>
+            <p>
+               <hi>I have forborn to</hi> inſtance <hi>in any thing touch<g ref="char:EOLhyphen"/>ing any part or</hi> parties, <hi>which might but occaſion a</hi> prejudice <hi>againſt any of the</hi> principles. <hi>For as</hi> Solomon <hi>ſaith,</hi> he that <hi>covereth a tranſgreſſion</hi> ſeeketh love, <hi>but</hi> he <hi>that repeateth a matter</hi> ſepa<g ref="char:EOLhyphen"/>rateth <hi>very friends,</hi> Prov. 17.9. <hi>And we finde it</hi> confirmed by experience, <hi>that ſuch proceed<g ref="char:EOLhyphen"/>ings,
+<pb n="4" facs="tcp:54734:4"/>they do but</hi> (as <hi>Paul</hi> ſaid of prophane and vain bablings) <hi>increaſe to more ungodlineſſe and their words</hi> (2 Tim. 2.16.17.) <hi>will eat as doth a</hi> Gangrene, <hi>of whom is, &amp;c. I would there<g ref="char:EOLhyphen"/>fore,</hi> and I wiſh all would <hi>forget that which is</hi> behind, <hi>that which is paſt,</hi> viz.
+<note n="*" place="margin">Not looking ſo much how they came in, as how we may get them out, as one ſaid of ori<g ref="char:EOLhyphen"/>ginall ſin.</note> 
+               <hi>miſcarriages ariſing from ſtrife and envy; and preſſe to that which is</hi> before, <hi>and yet to come,</hi> viz.
+<note n="*" place="margin">The more excellent way.</note> 
+               <hi>Love a<g ref="char:EOLhyphen"/>mong Brethren. I have not in the leaſt</hi> made it my ſtudy or endeavour <hi>to dreſſe the matter in a<g ref="char:EOLhyphen"/>ny habit,</hi> but plain; <hi>and I will give you my rea<g ref="char:EOLhyphen"/>ſon,</hi> viz. <hi>I would not have</hi> words <hi>ſtay the Read<g ref="char:EOLhyphen"/>ers from attending the</hi> things. That eloquence offers injury to things, which draws us to ob<g ref="char:EOLhyphen"/>ſerve it; <hi>ſeeing words are only for the matters ſake, and ſhould be no other then would pro<g ref="char:EOLhyphen"/>mote it.</hi>
+            </p>
+            <p>Octavius Auguſtus <hi>had a ſpecial care to ex<g ref="char:EOLhyphen"/>preſſe his mind and meaning moſt plainly, and re<g ref="char:EOLhyphen"/>prehended</hi> Marcus Antonius <hi>for writing ſuch things that men did rather wonder at then under<g ref="char:EOLhyphen"/>ſtand.</hi>
+            </p>
+            <p>Zeno <hi>was wont to ſay that he had two ſorts of</hi> diſciples, <hi>the one he called</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>who reſpect<g ref="char:EOLhyphen"/>ed nothing more then</hi> language; <hi>theſe he liked not ſo well: the other he called</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>curi<g ref="char:EOLhyphen"/>ous to learn ſuch words, as were</hi> fit to expreſſe <hi>things by, and theſe were his</hi> darlings.</p>
+            <p>
+               <hi>Me thinks the</hi> Apoſtles <hi>diſcourſe in</hi> 1 Cor. 14. <hi>ſhould ſilence all</hi> tinckling Cymbals.; <hi>ſuch as affect</hi> ſuch <hi>words and phraſes as rather</hi> tickle <hi>the</hi> itching <hi>ears of men, then affect their affect<g ref="char:EOLhyphen"/>ions, or leave any</hi> impreſſion <hi>on the hearts and conſcience.</hi>
+            </p>
+            <p>
+               <hi>For my own part I acknowledge it my principle</hi> (and I would be loth my practice ſhould give
+<pb n="5" facs="tcp:54734:4"/>it the lie) <hi>to ſpeak to the</hi> loweſt, <hi>and then I am ſure the</hi> higheſt <hi>underſtand me; whereas ſhould I</hi> (if at leaſt I were able) <hi>ſpeak to the</hi> higheſt, <hi>I ſhould be to the loweſt as a</hi> Barbarian. <hi>In ſhort, I rather chooſe to ſpeak</hi> ſhortly, <hi>though but</hi> five <hi>words, which may be to edifying; then to uſe</hi> ten thouſand, <hi>which when men heare or reade they know not.</hi>
+            </p>
+            <p>
+               <hi>I had thought to have</hi> collected <hi>the ſeveral heads, and have ſet them before you</hi> by themſelves, <hi>but the whole book</hi> being but little, <hi>will ſoon be</hi> run <hi>and read over, and therefore I ſhall ſpare you</hi> the labour of Reading, <hi>my ſelf</hi> of writing, <hi>and the Printer</hi> of Printing.</p>
+            <p>
+               <hi>Thus my</hi> beloved friends, <hi>having given you a</hi> foreſight <hi>of</hi> what <hi>I have done,</hi> why <hi>and</hi> how; and hoping that theſe things which are caſt in by the way are not caſt away. <hi>I ſhall ſay no more,</hi> but pray <hi>that it may come unto you with a</hi> fulneſſe of bleſſing, <hi>and be inſtrumental to u<g ref="char:EOLhyphen"/>nite</hi> your hearts <hi>in love, which will</hi> ſatisfie <hi>the deſire and</hi> fulfil <hi>the joy of him,</hi> who can joy in nothing, <hi>but in being the</hi>
+            </p>
+            <closer>
+               <signed>Servant of Chriſt, <hi>Ralph Venning.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="tract">
+            <pb facs="tcp:54734:5"/>
+            <pb n="7" facs="tcp:54734:5"/>
+            <head>THE NEW COMMAND RENEWED: OR, <hi>Love one another.</hi>
+            </head>
+            <div n="1" type="part">
+               <head>PART. I.</head>
+               <p>
+                  <seg rend="decorInit">G</seg>Ods <hi>one</hi> and only deſign is, by the <hi>words</hi> of his mouth, and the <hi>works</hi> of his hands; to bring forth his own
+<note n="*" place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Gen. 1.27</note> 
+                  <hi>Image</hi> in all times and diſpenſati<g ref="char:EOLhyphen"/>ons; and that is <hi>oneneſſe.</hi> When he created man, he made him the likeneſſe and image of himſelf, <hi>one;</hi> yea, though he created Male and Female,
+<note place="margin">Gen. 2.24</note> yet were they not two, but <hi>one</hi> fleſh.</p>
+               <p>When this Image was defaced, and man con<g ref="char:EOLhyphen"/>tinued not in his uprightneſſe, <hi>that is,</hi> in his ſimplicity and <hi>oneneſſe;</hi> that which God aimed at in the reſtauration of man, was the reparati<g ref="char:EOLhyphen"/>on of his image <hi>oneneſſe:</hi> that God and man might be <hi>one</hi> againe. Yea, that in Chriſt all things in Heaven and Earth, which were fallen <hi>out with,</hi> and fallen <hi>away from</hi> man;
+<note place="margin">Epheſ. 1.10</note> upon his falling away from God, might be gathered to<g ref="char:EOLhyphen"/>gether <hi>into one.</hi>
+               </p>
+               <pb n="8" facs="tcp:54734:6"/>
+               <p>Yea, all the diſpenſations and diſpenſators which God hath left in the world are to <hi>diſap<g ref="char:EOLhyphen"/>pear</hi> and be no more, when once the Saints come in,
+<note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Epheſ. 4.13</note> or <hi>(more emphatically) into the unity</hi> of the faith;</p>
+               <p>That is (as I with ſubmiſſion conceive) when the <hi>Jewes</hi> and <hi>Gentiles,</hi> the fulneſſe of them ſhall be called in (and come to the knowledge) or rather the <hi>acknowledgement</hi> of the Sonne of God, unto a perfect man;
+<note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> re<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d, <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Cor. 16.18 <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> He without us is not made perfect.</note> 
+                  <hi>or the man at age,</hi> and the meaſure of the ſtature of the fulneſſe of Chriſt; Chriſt (I mean myſtical) is not yet a <hi>perfect</hi> man <hi>at age,</hi> is not yet in fulneſſe; nor be, till all his Members both <hi>Jews</hi> and <hi>Gentiles</hi> are brought forth. Now when theſe ſhall be brought into the <hi>unity</hi> of faith, which is the <hi>ac<g ref="char:EOLhyphen"/>knowledgement</hi> of the Son of God, &amp;c. then is Gods deſign of <hi>oneneſſe</hi> accompliſht.</p>
+               <p>Now to the effecting hereof, God hath pro<g ref="char:EOLhyphen"/>miſed to beſtow on his people <hi>one</hi> heart, <hi>Ezek.</hi> 11.19.
+<note place="margin">Ezek. 11.19</note> which is not only in relation to their being new-born, and ſo being <hi>one</hi> with God; but as the <hi>Jews</hi> went with <hi>one</hi> heart to <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> that they might build the Temple: ſo in re<g ref="char:EOLhyphen"/>lation to this deſign of the <hi>Unity</hi> of Faith, God will knit together the hearts of his people,
+<note place="margin">Iſay. 60.8</note> that they ſhall flie together like <hi>Doves</hi> to the win<g ref="char:EOLhyphen"/>dows: yea, and <hi>ere</hi> they are aware <hi>(I believe)</hi> they will finde their ſouls made like the Chariots of <hi>Amminadab,</hi>
+                  <note place="margin">Cant. 6.12</note> or a willing people. In a word, the <hi>top</hi> &amp; conſummation of all the <hi>happineſſe,</hi> which Chriſt prays <hi>for his,</hi> is [<hi>John</hi> 17.21.] that they all may be <hi>one,</hi> as thou Father art in me and I in thee, that they alſo may be <hi>one</hi> in us. Indeed, the glory of all our <hi>hereafter glory</hi> will be, an <hi>one<g ref="char:EOLhyphen"/>neſſe</hi> of communion with the Father, Son, Spi<g ref="char:EOLhyphen"/>rit,
+<pb n="9" facs="tcp:54734:6"/>and one another in God, who is <hi>one</hi> in all and <hi>all</hi> in <hi>one.</hi>
+               </p>
+               <p>But ſeeing that as yet there ſeemes to be a breach not only between the <hi>Jews</hi> and <hi>Gentiles;</hi> but between them who have attained to the knowledge and <hi>acknowledgement</hi> of the Son of God; I ſhall endeavour to bring the Saints to keep <hi>the unity</hi> of the ſpirit in the <hi>bond</hi> of peace;
+<note place="margin">Epheſ. 3.4, &amp;c.</note> for there is but <hi>one</hi> body, <hi>one</hi> ſpirit, <hi>one</hi> hope, <hi>one</hi> Lord, <hi>one</hi> faith, <hi>one</hi> Baptiſm, <hi>one</hi> God and Father of all, who is <hi>above</hi> all, and <hi>through</hi> all, and <hi>in</hi> you all.</p>
+               <p>Now that we may walk together in <hi>one</hi> way, it is requiſite that we be of <hi>one</hi> heart, and that which conduceth moſt thereunto, is, that we be of <hi>one</hi> mind: for the more <hi>unity</hi> there is in <hi>judge<g ref="char:EOLhyphen"/>ment,</hi> the more there's like to be in <hi>affection</hi> (be<g ref="char:EOLhyphen"/>cauſe <hi>likeneſſe</hi> produceth <hi>liking</hi>) and the more <hi>oneneſſe</hi> there is in affection, the more there will be in practiſe and converſation; the more <hi>union</hi> there is, the more <hi>communion</hi> there will be, and the better; the leſſe <hi>union</hi> there is in judgement and affection, the leſſe and worſe will our <hi>Communion</hi> be.</p>
+               <p>And ſeeing we can hardly <hi>live</hi> together, un<g ref="char:EOLhyphen"/>leſſe we <hi>love</hi> together, or as the <hi>Prophet</hi> ſaith, (<hi>Amos</hi> 3.3.) <hi>Seeing we cannot walk together unleſſe we be agreed,</hi> I ſhall <hi>(as God inables me)</hi> lay down ſome <hi>principles,</hi> which if read <hi>(as writ<g ref="char:EOLhyphen"/>ten,)</hi> without prejudice and partiality, will <hi>not a little</hi> provoke and conduce to <hi>union</hi> and a<g ref="char:EOLhyphen"/>greement.</p>
+               <div n="1" type="principle">
+                  <head>The firſt Principle.</head>
+                  <p n="1">1. That we may meet to agree together,
+<note place="margin">1 Principle.</note> let us agree to meet together, and that's <hi>meet:</hi> for
+<pb n="10" facs="tcp:54734:7"/>ſaith the <hi>Prophet,</hi> how can two walk together, unleſſe they
+<note n="*" place="margin">Meetings, are meet things.</note> 
+                     <hi>meet</hi> and come together? ſo I would read that, which we read, unleſſe they
+<note n="*" place="margin">Be agreed.</note> a<g ref="char:EOLhyphen"/>gree together: <hi>meetings</hi> are the <hi>Poarch</hi> or entry into <hi>agreements.</hi> And me thinks Chriſtians ſhould not be much <hi>intreated</hi> to treat together; ſurely 'tis to be feared, that they are loth to a<g ref="char:EOLhyphen"/>gree, who are loth to meet about an agreement.</p>
+                  <p>Ob.
+<note place="margin" type="runSum"> Object. Hindrance of meeting.</note> 
+                     <hi>But what makes the Saints ſo backward to meet about an agreement?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſ.</hi>
+                     <note place="margin" type="runSum">Anſw.</note> Theſe three things.</p>
+                  <list>
+                     <item>1. Self-Conceit.</item>
+                     <item>2. Pride of heart.</item>
+                     <item>3. Satans policie.</item>
+                  </list>
+                  <p n="1">1.
+<note place="margin">1 Self-conceit.</note> 
+                     <hi>A ſelf-conceit</hi> that each of them is in the right; every man hath a <hi>good</hi> opinion of his <hi>own</hi> opinion.
+<note place="margin">Matthew. 26.26</note> Every man puts it off from himſelf, and inſtead of ſaying as did the <hi>Diſciples,</hi> (when Chriſt told them, one of you ſhall be<g ref="char:EOLhyphen"/>tray me) <hi>Maſter is it I?</hi> moſt are ready to ſay, <hi>Maſter 'tis not I.</hi>
+                     <note place="margin">Having exhorted to love Romans 12.10 He adds verſe 16. Be not wiſe in your own conceits.</note> Moſt men inſtead of con<g ref="char:EOLhyphen"/>feſſing their <hi>blindneſſe,</hi> aske like the <hi>ſcornfull Phariſee,</hi> are we <hi>blinde?</hi> ſo loth are men to ſu<g ref="char:EOLhyphen"/>ſpect their own defects. It was juſt ſo in the time of the diviſion between the <hi>Roman</hi> and <hi>Grecian</hi> Churches, each juſtified themſelvs, and neither would acknowledge themſelves to be in the error. <hi>But Chriſtians</hi> hear a little; if you think your ſelves in the right, I hope you think ſo on good grounds, and not that you are in the right meerly by thinking ſo: now if your grounds be good upon which your conceits are
+<pb n="11" facs="tcp:54734:7"/>built, you need not be afraid, nay you may be incouraged to produce them with boldneſſe. <hi>'Tis to be ſuſpected that they who refuſe to bring forth their ſtrong arguments, have no ſtrong ar<g ref="char:EOLhyphen"/>guments to bring forth.</hi> Chriſt tells us, <hi>Joh.</hi> 3.21.
+<note place="margin">John 3.21</note> that he that doth truth <hi>(and he that holds truth)</hi> cometh to the light, that his deeds may be made manifeſt, that they are wrought in God.</p>
+                  <p>If mens <hi>arguments</hi> be pure and good, they will not be the worſe, but the more confirmed by be<g ref="char:EOLhyphen"/>ing weigh'd; if they be found either <hi>baſe</hi> metal, or <hi>counterfeit,</hi> the diſcovery will ingage them to part with them, and to take their part no long<g ref="char:EOLhyphen"/>er, leſt they deceive their ſoul: <hi>in ſhort,</hi> if they be good, they may do good, they may help o<g ref="char:EOLhyphen"/>thers to ſee the light; <hi>if bad,</hi> 'twill be a mercy they were produced; for you are loſers while you follow darkneſſe and lying vanities.</p>
+                  <p n="2">2.
+<note place="margin">2 Let, pride of heart</note> The ſecond hindrance to a meeting about agreement is <hi>Pride of heart;</hi> Men are loth to be the firſt movers, leſt they ſhould be thought ti<g ref="char:EOLhyphen"/>merous and willing to yeeld; <hi>but beloved Chri<g ref="char:EOLhyphen"/>ſtians,</hi> Chriſt Jeſus did not ſo; God and we had never met nor had been reconciled together, had not God come to us firſt. Though God were <hi>offended by</hi> us, and had thence juſt reaſon to be for ever <hi>offended with</hi> us, yet he ſounds a <hi>truce,</hi> and makes the firſt tender of <hi>agreement; ſhall we not walk as we have him for an example?</hi>
+                  </p>
+                  <p>'Tis very obſervable, that while any one par<g ref="char:EOLhyphen"/>ty is low, it pleads for moderation and recon<g ref="char:EOLhyphen"/>ciliation; but when it hath got the ſtaffe in its hand, it ſcarce mindes, much leſſe practiſes ei<g ref="char:EOLhyphen"/>ther. <hi>Ah Chriſtians,</hi> the very Heathens will ſhame us; for <hi>Ariſtippus</hi> an Heathen, though elder then <hi>Aeſchines,</hi> who began the ſtrife, ſues
+<pb n="12" facs="tcp:54734:8"/>firſt for peace: ſhall we not be friends, ſaid he to <hi>Aeſchines? Chriſtians,</hi> I beſeech you go to one another, and ſay as <hi>Ariſtippus,</hi> ſhall we not be friends? And oh that every one would anſwer as did <hi>Aeſchines,</hi> yes, with all mine heart.</p>
+                  <p n="3">3.
+<note place="margin">Satans policy.</note> A third hindrance to a meeting about an agreement is <hi>Satans policy;</hi> we may take up <hi>Pauls</hi> words when he writes to the <hi>Theſſaloni<g ref="char:EOLhyphen"/>ans,</hi> 1 <hi>Theſ.</hi> 2.18. we had come unto you once and again, but <hi>Satan</hi> hindred us. <hi>Chriſtians,</hi> why do ye not come one to another? why are ye not in your journey, 'tis to be feared <hi>Satan</hi> ſtands in your way and ſtays you.</p>
+               </div>
+               <div n="2" type="principle">
+                  <head>The ſecond Principle.
+<note place="margin">Principle, right un<g ref="char:EOLhyphen"/>derſtanding.</note>
+                  </head>
+                  <p n="2">2. Being met, <hi>labour for a right underſtanding,</hi> of each others mind; there is nothing makes men ſtand at ſuch a far diſtance as a miſ-under<g ref="char:EOLhyphen"/>ſtanding: 'tis with men now as with the men at <hi>Babel,</hi> the languages are confounded, and they underſtand not one another.</p>
+                  <p>
+                     <hi>At your meetings,
+<note place="margin">Three things begge of God. The delivery of truth you.</note> ſeek God about theſe three things for a right underſtanding.</hi>
+                  </p>
+                  <p n="1">1 That God would be pleaſed by his own Spirit to <hi>declare</hi> and make <hi>cleare</hi> his truth unto you; that he would make <hi>known to you,</hi> and make <hi>you to know</hi> what is his good, perfect and acceptable Will, that ſo you may walk before him in all well-pleaſing.</p>
+                  <p n="2">2.
+<note place="margin">The delivery of truth <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> you .</note> Intreat God, that he would <hi>deliver you to the truth,</hi> as well as <hi>deliver the truth to you;</hi> not only that he would open <hi>his</hi> truth to <hi>your</hi> hearts, but alſo open <hi>your</hi> hearts to <hi>his</hi> truth, that ſo you may cloſe with every truth, embra<g ref="char:EOLhyphen"/>cing
+<pb n="13" facs="tcp:54734:8"/>and welcoming it as your joy, though it ſhould open you to never ſo many re<g ref="char:EOLhyphen"/>preaches in the world.</p>
+                  <p n="3">3. Intreat God <hi>to remove all obſtacles,</hi>
+                     <note place="margin">3 Removal of obſtacles</note> and to take that out of the way which ſtands in the way, and keeps you from underſtanding and owning truth.</p>
+                  <div type="section">
+                     <head>Such as theſe.</head>
+                     <p n="1">1. <hi>Self intereſt</hi> in holding any opinion;
+<note place="margin">
+                           <gap reason="illegible" resp="#MURP" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Self-intereſt.</note> no<g ref="char:EOLhyphen"/>thing more hinders men from going to, or going from an opinion then the intereſt they have by holding it; <hi>men do not care ſo much for the opinions they hold, as for what they hold by their opinions.</hi> Many a man thinks <hi>(I am con<g ref="char:EOLhyphen"/>fident)</hi> what <hi>Demetrius</hi> ſaid [<hi>Acts</hi> 19.27.] This craft by which we have all our wealth is like to be <hi>ſet at nought,</hi> and then we are like to <hi>come to nought.</hi>
+                     </p>
+                     <p>Hence they begin to flie in the face of truth, and oppoſe it with outragious rage; ſo <hi>dearly</hi> ſweet, and <hi>ſweetly</hi> dear is their <hi>darling</hi> gain; They ſee they cannot have the <hi>Honey,</hi> unleſſe they burn the <hi>Bees,</hi> and therefore <hi>fire</hi> them forthwith; they cannot poſſeſſe the <hi>Vineyard</hi> unleſſe <hi>Naboth</hi> be put to death, and therefore he muſt be diſpatch't. When once the <hi>coppy<g ref="char:EOLhyphen"/>hold</hi> of gain and honour is touch't, men begin to look about them, and <hi>will never call godli<g ref="char:EOLhyphen"/>neſſe gain, becauſe gain is their godlineſſe.</hi>
+                     </p>
+                     <p>Beſeech God therefore that you may be <hi>un<g ref="char:EOLhyphen"/>ſelfed,</hi> and may lay down all your intereſt of gain and honour.</p>
+                     <p>Let the truth of God be <hi>ten times</hi> dearer then <hi>tenths,</hi> or any <hi>income</hi> of gain and honour,
+<pb n="14" facs="tcp:54734:9"/>which <hi>cometh in</hi> by any opinion; for <hi>(as ſome ſay)</hi> where gold grows, no plant will proſper; ſo certainly no truth will be dear, nor have <hi>heart-room,</hi> where the love of money or ho<g ref="char:EOLhyphen"/>nour hath taken place.</p>
+                     <p n="2">2. Intreat God to keep you from <hi>paſſionate diſcourſes</hi> and diſputations; or from <hi>paſſion in diſcourſes</hi> and diſputations. For</p>
+                     <p n="1">1.
+<note place="margin">Tha wrath of man worketh not the righ<g ref="char:EOLhyphen"/>teouſneſſe of God.</note> So much <hi>paſſion</hi> as there is, ſo much there is to no purpoſe; yea to an <hi>ill</hi> purpoſe.</p>
+                     <p n="2">2. <hi>Paſſion</hi> uſually ariſeth more from and for <hi>ſelf</hi> then <hi>Chriſt.</hi>
+                     </p>
+                     <p n="3">3. Paſſion <hi>hinders</hi> the <hi>efficacy</hi> of the argu<g ref="char:EOLhyphen"/>ment; for the <hi>tingling</hi> of paſſion hinders the <hi>ſound</hi> of truth.</p>
+                     <p n="4">4. Paſſion <hi>unfits</hi> a man for diſcourſe, and <hi>confounds</hi> both memory and underſtanding; ſo that as <hi>Ariſtotle</hi> hath obſerved <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>; they that are in paſſion cannot diſcern nor judge of truth.</p>
+                     <p n="5">5. <hi>Chriſt loſeth</hi> more by the paſſion then he gains by the diſputation; for while you ſeek to <hi>honour</hi> him, he finds himſelf to be <hi>diſho<g ref="char:EOLhyphen"/>noured.</hi>
+                     </p>
+                     <p>
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</p>
+                     <p>
+                        <hi>When two diſpute, and th'one begins to rage, The other not retorting is more ſage.</hi>
+                     </p>
+                     <p n="3">3.
+<note place="margin">3 Prejudice.</note> Intreat God to <hi>remove prejudices,</hi> for that doth very much <hi>prejudice</hi> the entertainment of truth. <hi>Ahab</hi> had ſuch a <hi>prejudice</hi> againſt <hi>Mi<g ref="char:EOLhyphen"/>chaiah,</hi> that he would not call him <hi>Prophet,</hi> but [1 <hi>King.</hi> 22.8.]
+<note place="margin">1 Kings 22</note> Michaiah <hi>the ſon of</hi> Im<g ref="char:EOLhyphen"/>lah. <hi>There's one man,</hi> Michaiah <hi>the ſon of</hi> Im<g ref="char:EOLhyphen"/>lah, <hi>but I hate him, for he never ſpeaks good con<g ref="char:EOLhyphen"/>cerning me but evil;</hi> but as <hi>Jehoſhaphat</hi> ſaid to
+<pb n="15" facs="tcp:54734:9"/>
+                        <hi>Ahab, Let not the King ſay ſo;</hi> even fo would I ſay to you, <hi>Chriſtians;</hi> let not <hi>Chriſtians</hi> ſay of one another, this is a <hi>rigid</hi> man, I will not hear him; or this is a <hi>Sectary,</hi> I will not hear him. <hi>Beg of God that prejudice may not hinder cloſing with truth.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="3" type="principle">
+                  <head>The third Principle.</head>
+                  <p n="3">3. When God is ſought,
+<note place="margin">3 Principle, ſpeak plain<g ref="char:EOLhyphen"/>ly aNd clearly.</note> and you begin to diſcourſe, <hi>deal faithfully</hi> as in the preſence of God;
+<note place="margin">Fit words are better then fine.</note> uſe not policy and <hi>ſophiſtry</hi> to vaile the truth. Do not ye <hi>equivocate</hi> nor mince your meanings, hiding it under <hi>dubious</hi> termes, but propoſe all things clearly. Affect not novelty or nicety of language, but ſpeak in known and familiar phraſes.</p>
+                  <p>Many times there's ſuch a do kept about termes, that before the diſcourſe be ended, men loſe themſelves and the queſtion too: therefore ſpeak plainly and not in parables.
+<note n="*" place="margin">How many 3000 words have theſe three words coſt. <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> It's no <hi>little vanity</hi> to ſpeak ſuch words as will con<g ref="char:EOLhyphen"/>ſtrain you to uſe twenty, and ſometimes twen<g ref="char:EOLhyphen"/>ty times more to explain what you meant.</p>
+               </div>
+               <div n="4" type="principle">
+                  <head>The fourth Principle.</head>
+                  <p n="4">4. <hi>Be as willing to hear as to ſpeak;</hi>
+                     <note place="margin">4 Principle, hear much, ſpeak little.</note> a man ſhould hear twice as much as he ſhould ſpeak, and it ſeems to be intimated in his having <hi>two cares,</hi> but <hi>one tongue.</hi> Were there in times of diſcourſe more hearers and fewer ſpeakers, there would probably be eaſier and ſpeedier de<g ref="char:EOLhyphen"/>terminations; <hi>much talk hinders obſervation, and keeps things from being weigh'd.</hi> A man ſhall meet with ſuch <hi>talkatives,</hi> as (like the
+<pb n="16" facs="tcp:54734:10"/>beating of an unbrac'd drum) are able to beat ſome men out of their wits, at leaſt their pati<g ref="char:EOLhyphen"/>ence; <hi>they are ſo confuſedly buſie, and ſo buſily confuſed.</hi>
+                  </p>
+               </div>
+               <div n="5" type="principle">
+                  <head>The fifth Principle.</head>
+                  <p n="5">5.
+<note place="margin">5 Principle, weigh what is ſpoken.</note> 
+                     <hi>Weigh not who ſpeaks, nor how it is ſpoken, but what is ſpoken;</hi> you ſhould not overvalue, nor undervalue a truth, becauſe ye like or diſ<g ref="char:EOLhyphen"/>like the party or his manner of ſpeaking. Some<g ref="char:EOLhyphen"/>time <hi>(according to the Proverb)</hi> we dandle the child for love of the Nurſe, and take up an o<g ref="char:EOLhyphen"/>pinion for his ſake that brings it;
+<note n="*" place="margin">Maldonate ſaid of the explication of a place of Scripture, that it was moſt agreeable to antiquity, but be<g ref="char:EOLhyphen"/>cauſe Calvin h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d ſo in<g ref="char:EOLhyphen"/>terpreted it, he would chuſe a new one. Phil. 4.15</note> and others refuſe an opinion becauſe ſuch a one holds it.</p>
+                  <p>But <hi>Chriſtians,</hi> conſider what you do; would a man take <hi>poyſon,</hi> though from a <hi>Father,</hi> or refuſe a <hi>Cordiall</hi> though from an <hi>enemy?</hi> It was better ſaid, <hi>Amicus Plato,</hi> and <hi>Amicus Ariſto<g ref="char:EOLhyphen"/>teles, ſed magìs amica veritas.</hi> And the Apoſtle rejoyced that Chriſt was preached, though they that preacht him did it out of envy and to add to his bonds; <hi>go from any man to go to truth;</hi> but <hi>go from no truth to go to any man.</hi> As Chriſt ſaid; the <hi>pollution</hi> is not from without, neither indeed (in this ſenſe) the <hi>purity.</hi> What is the word the better for being in <hi>Pauls</hi> mouth, or the worſe for being in <hi>Apollos?</hi> What is the <hi>Heavenly treaſure</hi> the worſe for being brought in an <hi>earthen veſſell?</hi> or the better when <hi>hand<g ref="char:EOLhyphen"/>ed</hi> to us by an <hi>Angell?</hi> is the <hi>word of Wiſdome</hi> the better for the <hi>Wiſdome of words?</hi> or is truth the leſſe beautifull becauſe naked and not array<g ref="char:EOLhyphen"/>ed with <hi>Sattin words,</hi> and <hi>ſilken phraſes?</hi> what though a man have neither ſilver nor gold to give you, <hi>is not Chriſt worth the receiving?</hi>
+                  </p>
+                  <pb n="17" facs="tcp:54734:10"/>
+                  <p>'Tis ſtrange to ſee how men are led into, and led out of opinions meerly by an opinion of the man. The <hi>Philoſopher</hi> (though he were the ſame man and of the ſame minde) in his <hi>ſqual<g ref="char:EOLhyphen"/>lid rags,</hi> could not finde admiſſion, when <hi>better robes</hi> procur'd both an open doore, and reve<g ref="char:EOLhyphen"/>rence. <hi>Boldneſſe</hi> and readineſſe of <hi>ſpeech</hi> with the <hi>moſt</hi> (though not with the moſt <hi>judicious</hi>) <hi>bears</hi> away the <hi>Bell.</hi> To go from <hi>Ariſtotle,</hi>
+                     <note place="margin">Ipſe dixit ſwaid all.</note> though a man go to reaſon, is, <hi>or had wont to be,</hi> no ſmall diſgrace in the ſchooles.</p>
+                  <p>If <hi>Herod</hi> ſpeak, then it is the voyce of <hi>God</hi> and not of man! but if <hi>Paul</hi> ſpeake, then 'tis what will this <hi>babler</hi> ſay? Some cannot heare <hi>unleſſe</hi> a <hi>Doctor</hi> preach; others will not heare <hi>if</hi> a <hi>Doctor</hi> preach. Surely <hi>Chriſtians,</hi> theſe things ought not to be ſo; <hi>truth</hi> ſhould be <hi>well-come</hi> to us though the <hi>Devill</hi> the father of lies brought it to us; and <hi>no hing but truth,</hi> though an <hi>Angel</hi> from Heaven be the meſſenger.</p>
+               </div>
+               <div n="6" type="principle">
+                  <head>The ſixth Principle.</head>
+                  <p n="6">6.
+<note place="margin">6 Principle, cuſtome. Chriſt call'd himſelf truth, not cuſtome.</note> 
+                     <hi>Let not cuſtome beare ſway for or againſt an opinion.</hi> Let not Antiquity or Novelty make you reſpect or diſreſpect a truth; <hi>father truth for truths ſake whether old or new.</hi> Though all truth be old
+<note n="*" place="margin">Old truths may come newly to light, God is not tied to time, for the gift of Illumina<g ref="char:EOLhyphen"/>tion. Dr. Hall.</note>, yet our <hi>ſight</hi> of truth may be new; why then ſhould <hi>new light</hi> be a trouble to ſome, or <hi>tradition</hi> a burthen to others? why ſhould <hi>Divine</hi> or <hi>Orthodox,</hi> or <hi>Orthodox Divine</hi> grow out of date? or why ſhould not a <hi>Goſpell-Preacher</hi> be in ſeaſon? Some <hi>like</hi> words and practices becauſe of <hi>cuſtome;</hi> others have no other reaſon for their <hi>diſlike. Never walk by what hath been done, or what is done, unles it be
+<pb n="18" facs="tcp:54734:11"/>what ought to be done.</hi> Reduce things to their primitive inſtitution; and then ſee what God ſaith of them,
+<note place="margin">Matthew 19.8</note> as our Saviour told the Phariſees, <hi>Matth.</hi> 19.8. Though <hi>Moſes</hi> for the hardneſſe of your hearts ſuffered you to put away your <hi>Wives,</hi> yet from the <hi>beginning</hi> it was not ſo.</p>
+                  <p>Men do now adayes by <hi>opinions,</hi> as many do by their <hi>cloaths;</hi> ſome will keep to their great grandfathers habit and faſhion; others as changeable as the <hi>Moone,</hi> think they are never in faſhion, unleſſe they be ever changing faſhions. Some cannot like a truth becauſe 'tis not of <hi>ancient ſtanding;</hi> others like it becauſe it is of <hi>yeſterday.</hi> Some can reverence none but <hi>gray-hair'd</hi> opinons, others like none but youth<g ref="char:EOLhyphen"/>full and <hi>ſmoothfac'd</hi> ones. Tis true the
+<note n="*" place="margin">Age.</note> 
+                     <hi>multi<g ref="char:EOLhyphen"/>tude of yeares</hi> teacheth wiſdome, and ſo may <hi>the
+<note n="*" place="margin">Youth</note> few of dayes;</hi> 'tis <hi>truth,</hi> and nothing but the <hi>truth,</hi> and all the <hi>truth,</hi> which ſhould have our eſteem, whether it be old or young; whether the firſt borne <hi>of time,</hi> or the laſt.</p>
+               </div>
+               <div n="7" type="principle">
+                  <head>The ſeventh Principle.</head>
+                  <p n="7">7.
+<note place="margin">7 Principle, proper Arguments.</note> In all diſcourſes and diſputations, <hi>uſe pro<g ref="char:EOLhyphen"/>per Media</hi> or arguments to prove your tenets by; bring not <hi>Scriptures</hi> to your <hi>reaſon,</hi> but your <hi>reaſon</hi> to <hi>Scripture,</hi> or judge reaſon by reaſon, and Scripture by Scripture. <hi>Morall</hi> ar<g ref="char:EOLhyphen"/>guments are not fit and proper to prove <hi>naturall</hi> Principles by, nor in many things <hi>rationall</hi> Arguments to prove or diſprove <hi>Scripture</hi> by. Prove ſpirituall things by ſpirituall Arguments, as the <hi>Apoſtle</hi> hints to us,
+<note place="margin">1 Cor. 2.13</note> 1 <hi>Cor.</hi> 2.13. which things alſo we ſpeak, not in the words which mans wiſdome teacheth, but which the holy
+<pb n="19" facs="tcp:54734:11"/>Ghoſt teacheth, <hi>comparing ſpirituall things with ſpirituall;</hi> or judging ſpiritualls with ſpiritualls. The Apoſtle did not borrow words or Arguments from without, but fitted ſpiritu<g ref="char:EOLhyphen"/>all Arguments to prove ſpiritual things. <hi>Never<g ref="char:EOLhyphen"/>draw Eccleſiaſticall concluſions from Politicall premiſſes.</hi>
+                  </p>
+               </div>
+               <div n="8" type="principle">
+                  <head>The eighth Principle.</head>
+                  <p n="8">8. <hi>Diſcourſe not to cavill but to convince,
+<note place="margin">8. Principle, cavil not.</note> or to be convinced.</hi> Many diſcourſe &amp; diſpute more for <hi>faction</hi> then <hi>ſatisfaction,</hi> and hence come ſo many <hi>fractions.</hi>
+                  </p>
+                  <p>Many <hi>yea too many,</hi> diſcourſe and diſpute to ſhew forth <hi>themſelves</hi> more then <hi>truth;</hi> taking more care to ſhew what <hi>may</hi> be ſaid, then what <hi>ſhould</hi> be ſaid: ever carping and making <hi>ob<g ref="char:EOLhyphen"/>jections,</hi> when there needs none to be made.</p>
+               </div>
+               <div n="9" type="principle">
+                  <head>The nineth Principle.</head>
+                  <p n="9">9. <hi>When truth is ſpoken, yield to it;</hi>
+                     <note place="margin">9. Principle, yield to truth.</note> men thinke it a ſhame to ſubmit and ſurrender them<g ref="char:EOLhyphen"/>ſelves after they have ſo <hi>long</hi> and ſo <hi>ſtoutly</hi> ſtood in the defence of <hi>their</hi> opinion: and therefore though they be convinced that their <hi>tenet</hi> is at leaſt ſuſpicious like ſo many <hi>ſophiſters</hi> in the Schooles they ſtudy to evade by diſtinctions, rather then give glory to God in confeſſing their ſin.</p>
+                  <p>But <hi>Chriſtians,</hi> 'tis no ſmall conqueſt and vi<g ref="char:EOLhyphen"/>ctory that you obtain, when your ſelf, error and darkneſſe is overcome and captivated by truth. <hi>'Tis an honour to be overcome by truth; but to o<g ref="char:EOLhyphen"/>vercome the truth is ſhame. Plutarch</hi> makes it a great diſcovery of proficiency in vertue, when a
+<pb n="20" facs="tcp:54734:12"/>man doth not take it ill that he is confuted.</p>
+               </div>
+               <div n="10" type="principle">
+                  <head>The tenth Principle.</head>
+                  <p n="10">10.
+<note place="margin">10. Principle, practiſe together.</note> 
+                     <hi>When, and as far as you are convinced, practiſe.</hi> Go together as far as you can; what need you part till needs muſt? you can agree to preach, hear and pray together, though in o<g ref="char:EOLhyphen"/>ther things you differ <hi>I have ſeen ſuch ſweet ſuc<g ref="char:EOLhyphen"/>ceſſe upon the Prayers of Chriſtians met toge<g ref="char:EOLhyphen"/>ther, who have differed in ſeveral opinions,</hi> that I cannot but beſeech Chriſtians, that they would not forſake the aſſembling of themſelves together as the manner of ſome is.
+<note place="margin">Heb. 10.25.</note>
+                  </p>
+                  <p>Let us therefore <hi>Brethren,</hi>
+                     <note place="margin">Phil. 3.15.</note> as many as be per<g ref="char:EOLhyphen"/>fect, be thus minded; and whereto we have al<g ref="char:EOLhyphen"/>ready attained, let us walk by the ſame rule: and if in any thing ye be otherwiſe minded, God ſhall reveal <hi>even this</hi> unto you.</p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <head>PART. II. <hi>In the mean time let us like Chriſtians obſerve theſe enſuing Principles.
+<note place="margin">More uniting Prin<g ref="char:EOLhyphen"/>ciples.</note> They are as ſalve and you may gueſſe at the nature of our wounds by them; I ſhall leave the application of them to the bleſſing of God.</hi>
+               </head>
+               <div n="1" type="principle">
+                  <p n="1">1.
+<note place="margin">1. Principle, forbear<g ref="char:EOLhyphen"/>ance.</note> 
+                     <hi>LEt us bear with one another, and forbear one another in love:</hi> We are commanded to bear one anothers burdens, <hi>Gal.</hi> 6.2. That ſo we may fulfill the Law of Chriſt; and we ſhall <hi>undoubtedly</hi> be commended; for 'tis according to the good will of Chriſt, if we bear one ano<g ref="char:EOLhyphen"/>thers
+<pb n="21" facs="tcp:54734:12"/>burdens. I am confident 'tis a burden to many a ſoul that they are not in all things like minded unto their brethren; <hi>Yea, 'tis not with<g ref="char:EOLhyphen"/>out ſome fear and trembling that in any thing they diſagree from ſo many worthy and gracious men that are otherwiſe minded.</hi> Oh help to bear, or at leaſt bear with the burden.</p>
+                  <p>You cannot keep the <hi>unity</hi> of the ſpirit in the <hi>bond</hi> of peace, unleſſe you <hi>forbear</hi> one another in love, as appears moſt plainly by their con<g ref="char:EOLhyphen"/>nection, <hi>Eph.</hi> 4.2, 3. forbearing one another in love, endeavouring to keep the unity of the ſpi<g ref="char:EOLhyphen"/>rit in the bond of peace: this endeavour for uni<g ref="char:EOLhyphen"/>ty and peace will be loſt, unleſſe God who bears with us, teach us alſo to bear one with another.</p>
+                  <div type="section">
+                     <head type="sub">Take theſe reaſons for forbearance.</head>
+                     <p n="1">
+                        <note place="margin" type="runSum">Reaſons for forbear<g ref="char:EOLhyphen"/>ance 1. The oneneſſe of your end.</note>1. <hi>You all pretend, yea, I hope intend the ſame end:</hi> you profeſſe one and the ſame deſign, <hi>viz.</hi> the advancement of the <hi>Goſpel</hi> of <hi>Peace,</hi> and the <hi>Peace</hi> of the <hi>Goſpel.</hi> Should ye not therefore in relation to this end, rejoyce that Chriſt is preach't, though ſome ſhould preach him out of envy and on purpoſe to adde to your bonds? it was <hi>Pauls</hi> joy <hi>Phil.</hi> 1.15.16.18.</p>
+                     <p>Why <hi>my dearly Beloved,</hi> are ye <hi>Ephraim</hi> a<g ref="char:EOLhyphen"/>gainſt <hi>Manaſſeh,</hi> and <hi>Manaſſeh</hi> againſt <hi>Ephra<g ref="char:EOLhyphen"/>im,</hi> ſeeing both are for <hi>Judah?</hi> Oh that <hi>Ephra<g ref="char:EOLhyphen"/>im</hi> might not envy <hi>Manaſſeh,</hi> nor <hi>Manaſſeh</hi> vex <hi>Ephraim</hi> any more. See that remarkable paſſage in <hi>Mar.</hi> 9. <hi>v.</hi> 38 ſaith <hi>John, Maſter,</hi> we ſaw one caſting out Devils in thy name, and he followeth not us, and we <hi>forbad</hi> him, becauſe he followed not us. <hi>Chriſtians,</hi> is not this many a mans language? <hi>forbid</hi> him; <hi>ſilence</hi> him; <hi>out</hi>
+                        <pb n="22" facs="tcp:54734:13"/>with him, <hi>down</hi> with him, why ſo? why, be<g ref="char:EOLhyphen"/>cauſe he followeth not us. But Jeſus <hi>forbad John</hi> to <hi>forbid</hi> him; for <hi>verſ.</hi> 39. Jeſus ſaid, <hi>forbid</hi> him not; and he gives two reaſons of it; Firſt, no man which ſhall do a miracle in my name, can lightly ſpeak evil of me. Secondly, <hi>v.</hi> 40. for he that is not againſt us, is on our part. <hi>Chriſtians,</hi> can he be againſt you that is for Chriſt; what though he follow not you, he notwithſtanding carries on Chriſts end; bleſ<g ref="char:EOLhyphen"/>ſed God, <hi>forbid</hi> this, that we ſhould <hi>forbid</hi> one another to do thy work.
+<note place="margin" type="runSum">2. Reaſon, you agree in the moſt and beſt.</note>
+                     </p>
+                     <p n="2">2. <hi>You agree in the moſt and the beſt things.</hi> The Fundamentals and eſſentials of Religion <hi>(in which you to whom I write do agree)</hi> are of far more worth, and therefore of far more con<g ref="char:EOLhyphen"/>cernment to <hi>ingage</hi> you, then circumſtantials and accidentals <hi>(the things in which you diſ<g ref="char:EOLhyphen"/>agree)</hi> are to <hi>diſingage</hi> you.</p>
+                     <p n="3">3.
+<note place="margin" type="runSum">3. Reaſon, conſider your ſelves.</note> 
+                        <hi>Conſider that your ſelves</hi> alſo are men ſub<g ref="char:EOLhyphen"/>ject to the like infirmities with your Brethren, and ſubject to the like paſſions, and have alſo your failings and aberrations; in many things we offend all; who is there that ſinneth not? <hi>good Lord!</hi> if thou ſhould'ſt be ſo ſoon angry with us as we are one with another, who could ſtand?
+<note place="margin">Gal. 6.1.</note> I beſeech you to read this Scripture with all lowlineſſe and meekneſſe of mind, <hi>Gal.</hi> 6.1. <hi>Brethren,</hi> if a man (or as the <hi>margin</hi> reads it, <hi>although</hi> a man) be overtaken in a fault, ye who are <hi>ſpiritual,</hi> reſtore ſuch an one in the <hi>ſpirit of meekneſſe;</hi> why ſo? conſidering thy ſelf, leſt thou alſo be tempted. <hi>If thou be tempt<g ref="char:EOLhyphen"/>ed, that which thou findeſt fault with, may be thy fault.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="2" type="principle">
+                  <pb n="23" facs="tcp:54734:13"/>
+                  <head>The ſecond Principle.</head>
+                  <p n="2">2. Until ye are agreed,
+<note place="margin">2. Charity.</note> 
+                     <hi>have charitable thoughts, not hard and harſh cenſures of each o<g ref="char:EOLhyphen"/>thers walking.</hi> Judge it rather to be <hi>conſcience</hi> then <hi>ſtubbornneſſe,</hi> which ingageth men to walk in different courſes. You would have o<g ref="char:EOLhyphen"/>thers think ſo of yon; why will not you think ſo of others? who would not think but that to have every mans good will, to keep the love of relations, to enjoy their liberties, men would comply with any thing, were there not an awe upon their <hi>conſciences?</hi> whence it may ariſe, I will not queſtion.</p>
+                  <p>
+                     <hi>Love thinks no evil, viz.</hi> of others,
+<note place="margin">1 Cor. 13.5.</note> as well as towards others. Love baniſheth jealouſies and ſuſpicions, and ſo conſequently cenſures.</p>
+               </div>
+               <div n="3" type="principle">
+                  <head>The third Principle.</head>
+                  <p n="3">3.
+<note place="margin">3. Principle, love whom God loves.</note> 
+                     <hi>Draw not away your love when God draws not away his love;</hi> dare any man deny his love to that man, where God grants his love?
+<note place="margin">1 Cor. 16.22.</note> If a<g ref="char:EOLhyphen"/>ny man love not the Lord Jeſus Chriſt, let him be <hi>Anathema Maranatha.</hi> But is any man belo<g ref="char:EOLhyphen"/>loved and a lover of Chriſt? Oh take heed, deny him not your love. <hi>Let that of the ſpirit which appears in him, draw thine heart more to<g ref="char:EOLhyphen"/>wards him, then that of fleſh which appears, take off thine heart from him.</hi>
+                  </p>
+                  <p>
+                     <hi>We many times take notice of that which will divide, and not of that which will unite.</hi> A ſmall errour was ſoon eſpied in certain pictures of <hi>Apelles,</hi> when a thouſand <hi>excellent touches</hi> were not at all obſerved. One houre of <hi>Eclipſe</hi>
+                     <pb n="24" facs="tcp:54734:14"/>cauſeth the Sun to be more gazed on, then a thouſand faire days. Thoſe ſouldiers who fol<g ref="char:EOLhyphen"/>lowed <hi>Caeſars</hi> triumph, publiſhed his <hi>vices,</hi> but concealed his <hi>vertues.</hi> But <hi>dear Chriſtians,</hi> let us rather ſay one to another, as Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> ſaid to the Lord <hi>Burleigh,</hi> ſit down <hi>my Lord,</hi> we make much of you, not for your <hi>bad leg,</hi> but for your <hi>good Head.</hi> Let us make much of each other and ſit down together, not becauſe there is badneſſe in the feet; but becauſe there is goodneſſe in the head and heart.</p>
+               </div>
+               <div n="4" type="principle">
+                  <head>The fourth Principle.</head>
+                  <p n="4">4.
+<note place="margin">Principle, cenſure <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t intentions.</note> 
+                     <hi>Cenſure no mans intention, till his practice, either words or works diſcover his meaning.</hi> Many times by their fears, jealouſies and ſuſ<g ref="char:EOLhyphen"/>pitions men create that in their hearts, which had never a place in the ſuſpected parties ima<g ref="char:EOLhyphen"/>gination. <hi>Iacob</hi> was needleſly troubled and cauſeleſly afraid of his brother <hi>Eſau,</hi> when no<g ref="char:EOLhyphen"/>thing gave him occaſion to ſuſpect his brother, but his own <hi>guilty conſcience,</hi> which told him he did deſerve it. <hi>Iacob</hi> fears that he came to execute revenge, when he comes to <hi>welcome</hi> home his brother, and entertain him honour<g ref="char:EOLhyphen"/>ably.</p>
+                  <p>Jealouſie is as quick as <hi>Martial Law;</hi> ar<g ref="char:EOLhyphen"/>raignes, condemns and executes all in a mo<g ref="char:EOLhyphen"/>ment.</p>
+                  <p>
+                     <note n="*" place="margin">Miſtakes of things <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>auſe things to be done <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>miſſe.</note> Nothing doth more hurt and wrong to friends then jealouſies. Some cry out of ſome, theſe men intend nothing but <hi>Anarchy</hi> and con<g ref="char:EOLhyphen"/>fuſion; ſo that ſhortly there will be no <hi>difference</hi> of (nor reſpect to) <hi>perſons.</hi> Others cry out of others, theſe men intend nothing but <hi>Lordſhip</hi>
+                     <pb n="25" facs="tcp:54734:14"/>and tyranny, to encroach all power into their own hand, and ſo to be Maſters over our faith, and to lord it over the Lords inheritance. But why are ye become evil judges of thoughts? are you the ſearchers of hearts? you would judge more righteous judgement in this, to judge ac<g ref="char:EOLhyphen"/>cording to appearance.</p>
+               </div>
+               <div n="5" type="principle">
+                  <head>The fifth Principle.</head>
+                  <p n="5">5.
+<note place="margin">5. Principle, Incenſe not.</note> 
+                     <hi>Do nothing whereby to incenſe and exaſpe<g ref="char:EOLhyphen"/>rate one another.</hi> Provoke one another to love as much as you can, but to wrath as little as you may, nay, not at all. 'Tis becoming <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> to uſe ſoft words; and they turn away wrath; but many words ſtir up ſtrife. Bitter words are like <hi>ſharp ſwords,</hi> they pierce to the very ſoule.
+<note place="margin">Prov. 15.1.</note> 
+                     <hi>But let others paſſion provoke your compaſſion.</hi> 'Twas ſweetly ſaid of <hi>Calvin</hi> con<g ref="char:EOLhyphen"/>cerning <hi>Luther, Though he call me Devil, I will call him Saint.</hi> Oh that Chriſtians would learn that leſſon of Chriſt, <hi>When you are revi<g ref="char:EOLhyphen"/>led, revile not again!</hi>
+                  </p>
+                  <p>
+                     <hi>Alas!</hi> do not men ſpeak bitterly againſt bitter ſpeaking; and write bitterly againſt bitter writings, becoming <hi>inexcuſable</hi> thereby?
+<note place="margin">Rom. 2.1.</note> for wherein they judge others they condemn themſelves, being doers of the ſame things. Oh that <hi>Chriſtians</hi> would overcome evil with good, paſſion with meekneſſe, bitterneſſe with ſweetneſſe; for a ſoft tongue breaks the bone, <hi>Prov.</hi> 25.15. Oh how did <hi>Abigails affection</hi> conquer <hi>Davids paſſion,</hi> though heated ſeven<g ref="char:EOLhyphen"/>fold! And how did <hi>Davids kindneſſe</hi> to <hi>Saul,</hi> make <hi>Saul</hi> confeſſe <hi>his unkindneſſe to</hi> David! <hi>However others carry themſelves toward us un<g ref="char:EOLhyphen"/>becoming
+<pb n="26" facs="tcp:54734:15"/>Chriſtians, our carriage toward them ſhould be no other then is becoming Chriſtians.</hi>
+                  </p>
+                  <p>A <hi>Publican</hi> will love where he finds love, and ſalute when he is ſaluted; but you <hi>(ab you Chri<g ref="char:EOLhyphen"/>ſtians!)</hi> are to exceed and excell in love; to love when you are not loved, <hi>(though the more you love, the leſſe ye be heloved)</hi> to ſpeak faire when you are ill-ſpoken of, not to render rail<g ref="char:EOLhyphen"/>ing for railing,
+<note place="margin">1 Pet. 3.8, 9.</note> but contrariwiſe bleſſing, know<g ref="char:EOLhyphen"/>ing that you are thereunto called.</p>
+                  <p>
+                     <hi>Chriſtians</hi> ſhould be as the <hi>Angels,</hi>
+                     <note place="margin">2 Pet. 2.11.</note> which are greater in power and might, yet bring <hi>no railing</hi> accuſations before the Lord; <hi>Michael</hi> the Arch-angel diſputing with the <hi>Devil</hi> about the body of <hi>Moſes,</hi> durſt not bring <hi>(hearke ye Chriſtians)</hi> he durſt not bring a railing accuſa<g ref="char:EOLhyphen"/>tion, but ſaid <hi>The Lord rebuke thee.</hi> Let us do for the future, as <hi>Johns diſciples</hi> did by their Maſter, when <hi>Herod</hi> ſlew him, <hi>Mat.</hi> 14.12. they took up the body and buried it, and went and told Jeſus. Let us bury in oblivion all railings and injuries, <hi>only go and tell Ieſus, and ſay, Lord rebuke them.</hi>
+                  </p>
+               </div>
+               <div n="6" type="principle">
+                  <head>The ſixth Principle.</head>
+                  <p n="6">6.
+<note place="margin">6. Principle.</note> 
+                     <hi>Go not about to make one another odious by repreſenting things worſe then they are.</hi> Many times the picture of the Lion is more dreadful then the Lion himſelf. <hi>Good Lord!</hi> in what black, ugly and deformed ſhapes do men ſet forth one another, as if they were Monſters and no men?</p>
+                  <q>
+                     <l>
+                        <hi>Ah</hi>—</l>
+                     <l>—<hi>Pudétque referre,</hi>
+                     </l>
+                     <pb n="27" facs="tcp:54734:15"/>
+                     <l>
+                        <hi>Haec dici potuiſſe, &amp; non potuiſſe refelli.</hi>
+                     </l>
+                     <l>
+                        <hi>Ah</hi>—</l>
+                  </q>
+                  <q>
+                     <l>I <hi>bluſh to tell it,</hi>
+                     </l>
+                     <l>
+                        <hi>That I can ſpeak it,</hi>
+                     </l>
+                     <l>
+                        <hi>But cannot refell it.</hi>
+                     </l>
+                  </q>
+                  <p>
+                     <hi>Tertullus</hi> never ſtrained his Oratory againſt <hi>Paul,</hi> nor <hi>Tobias</hi> and <hi>Sanballat</hi> theirs againſt <hi>Nehemiah,</hi> more then Chriſtians <hi>(if at leaſt they be as they are called)</hi> do ſtrain theirs to bring one another under diſreſpect and <hi>odium.</hi>
+                  </p>
+               </div>
+               <div n="7" type="principle">
+                  <head>The ſeventh Principle.</head>
+                  <p n="7">7. <hi>Draw not concluſions from other mens Prin<g ref="char:EOLhyphen"/>ciples &amp; then ſay they are their opinions.</hi>
+                     <note place="margin">7. Principle.</note> We may make the ſame complaint as <hi>David,</hi> they wreſt, torture and wrack my words. <hi>Alas!</hi>
+                     <note place="margin">Pſal. 56.5.</note> men ſet e<g ref="char:EOLhyphen"/>very thing on the <hi>tenter-hooks,</hi> and ſtretch and twiſt every Principle like a noſe of wax.</p>
+                  <p>
+                     <hi>Alas!</hi> What pity 'tis to ſee men invert and pervert one anothers words, and at length to draw ſuch concluſions as would make one think they meant what they never meant? <hi>'Twere a good thing to interpret candidly, and when a thing will bear a double conſtruction, to take it in the beſt ſenſe.</hi> But we ſee by ſad experience that <hi>So<g ref="char:EOLhyphen"/>phiſtry</hi> makes more <hi>Syllogiſmes</hi> then <hi>Logick</hi> doth.</p>
+                  <p>So ſome miſtook and miſreported <hi>Paul, Rom.</hi> 3.8. as if he had ſaid, <hi>that we might do evil, ſo good might come thereof.</hi>
+                     <note place="margin">Mat. 26.61.</note> So the <hi>Iews</hi> depoſe that Chriſt ſaid he would <hi>deſtroy the Temple at Ie<g ref="char:EOLhyphen"/>ruſalem</hi> in three days and raiſe it again, when he ſpake of his Body, as appears, <hi>Ioh.</hi> 2.21.
+<note place="margin">John 2.21.</note> what words thus wreſted and perverted may not be
+<pb n="28" facs="tcp:54734:16"/>called hereſie and <hi>(as they ſaid of Chriſts words)</hi> Blaſphemy? when if taken as meant, and in their <hi>proper ſenſe,</hi> may be found very ſound and conſonant to truth. <hi>Take heed therefore of gloſ<g ref="char:EOLhyphen"/>ſing or commenting upon anothers Text.</hi>
+                  </p>
+               </div>
+               <div n="8" type="principle">
+                  <head>The eighth Principle.</head>
+                  <p n="8">8.
+<note place="margin">8. Principle, Do as you would be done to.</note> 
+                     <hi>Grant to others what you would have others grant to you.</hi> We are uſually better at <hi>receiving</hi> then at <hi>giving;</hi> we care not how much we re<g ref="char:EOLhyphen"/>ceive, nor how little we give: though it be more <hi>honorable</hi> to give then to receive? When our ſelves are inferiours and others ſuperiours, we beg (as did the ſervant, <hi>Matt.</hi> 18 26) Have pa<g ref="char:EOLhyphen"/>tience a little, <hi>have a little patience;</hi> but when our ſelves are ſuperiours, and others inferiours, <hi>we have no patience at all.</hi>
+                  </p>
+                  <p>Jeſus Chriſt ſums up the Law and the Pro<g ref="char:EOLhyphen"/>phets in this Principle, [<hi>Matt.</hi> 7.12.] Therefore all things, whatſoever ye would that men ſhould do to you, do ye even ſo to them. This is all that the <hi>Law, viz. love thy Neighbour as thy ſelf,</hi> doth require, and the doing of it is the ful<g ref="char:EOLhyphen"/>filling of the Law. 'Tis indeed a <hi>golden</hi> rule, a <hi>royall</hi> Law, the <hi>ſtandard</hi> of equity, according to which we muſt converſe with all men.</p>
+                  <p>
+                     <hi>Ah Chriſtians!</hi> did we make other mens ca<g ref="char:EOLhyphen"/>ſes our own, we ſhould ſay the caſe is altered. <hi>Iob</hi> pleads thus with his friends,
+<note place="margin">
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 16.3.</note> I could alſo ſpeak as you, <hi>if your ſoul were in my ſouls ſhead,</hi> I could heap up words againſt you, and ſhake my head at you; <hi>But</hi> I would ſtrengthen you with my mouth, and the moving of my lips ſhould aſſwage your grief.</p>
+                  <p>Many a <hi>great Commander</hi> have upon this ve<g ref="char:EOLhyphen"/>ry
+<pb n="29" facs="tcp:54734:16"/>
+                     <hi>conſideration</hi> ſhown themſelves exceeding <hi>merciful</hi> and kind to their <hi>captives,</hi> conſidering <hi>it might be their own caſe,</hi> and then they would be glad of mercy. And indeed <hi>victory</hi> to gene<g ref="char:EOLhyphen"/>rous minds is only an <hi>inducement</hi> to <hi>Moderation.</hi>
+                  </p>
+                  <p>See how <hi>Adonibezeks</hi> conſcience flies in his face for his cruelty, when he himſelf was ſer<g ref="char:EOLhyphen"/>ved by others as he had ſerved others, <hi>Iudg.</hi> 1.7. And <hi>Adonibezek</hi> ſaid, <hi>Threeſcore and ten Kings. having their thumbs and their great toes cut off, gather'd their meat under my table; as I have done ſo God hath requited me.</hi>
+                  </p>
+               </div>
+               <div n="9" type="principle">
+                  <head>The nineth Principle.</head>
+                  <p n="9">9. <hi>Do nothing in prejudice or partiality;</hi>
+                     <note place="margin">9. Principle, no pre<g ref="char:EOLhyphen"/>judice nor partiality.</note> the one will make you an enemy to good, the other will make you a friend to evill. Prejudice will take in nothing, partiality will take in any thing.</p>
+                  <p>
+                     <hi>Alas!</hi> ſuch is our miſery that men <hi>part</hi> Re<g ref="char:EOLhyphen"/>ligion, and love by <hi>parties.</hi> Men love not <hi>(as God loves)</hi> without reſpect of perſons; but men love ſuch, becauſe they take part with them and their deſignes; and have prejudice againſt others, becauſe they are not their followers.</p>
+                  <p>Till we <hi>love one another</hi> according as Chriſt hath given us command and example, as he hath loved us, that is <hi>as his,</hi> we cannot expect ſo ſweet a concord, as then we may.</p>
+               </div>
+               <div n="10" type="principle">
+                  <head>The tenth Principle.</head>
+                  <p n="10">10. <hi>Aſcend or deſcend, go higher or lower,</hi>
+                     <note place="margin">10. Principle.</note> do any thing <hi>(Sinne excepted)</hi> that you may agree. Become all things to all men, if at laſt by any
+<pb n="30" facs="tcp:54734:17"/>means you may winne ſome.
+<note place="margin">1 Cor. 10.24.</note> No ſuch way to win one anothers love, as by denying our-ſelve to ſeek one anothers wealth.</p>
+                  <p>
+                     <hi>Nature</hi> is ſo in love with <hi>unity,</hi> that Parti<g ref="char:EOLhyphen"/>cular beings will forſake their own intereſts, their <hi>elements</hi> and centres which are their <hi>reſt</hi> and happineſs, rather then there ſhould be a breach or <hi>vacuity</hi> in nature; and 'tis but reaſon that particulars ſhould ſerve the univerſall, [<hi>for they who ſo loſe,</hi> ſhall <hi>ſave</hi>] ſeeing that unleſſe the veſſell be preſerved their Cabins cannot.</p>
+                  <p>
+                     <hi>Alas Chriſtians!</hi> how will ye thus ſeek every man his own, and not the things of Jeſus Chriſt? Oh how glad am I! my joy is now fulfilled <hi>ſaith John,</hi> at Chriſts increaſe, though his increaſe be my decreaſe; and <hi>Paul</hi> would rather ſtarve himſelfe and never eate fleſh while he lived, then do any thing which ſhould of<g ref="char:EOLhyphen"/>fend or ſadden his weake Brother.</p>
+                  <p>Bodies ductile and tenſile <hi>(metalls that will be drawne into wires; wooll and towe, which will be drawn into yarne or thread)</hi> have in them the appetite of not diſcontinuing ſo ſtrong, that they will follow the force which <hi>wire draws</hi> and pulls them out, rather then diſcontinue or for<g ref="char:EOLhyphen"/>ſake their owne bodies.</p>
+                  <p>
+                     <hi>Cratiſiclea</hi> the mother of <hi>Cleomenes,</hi> (when he was loth to ſend her for a pledge into <hi>Aegypt</hi>) ſaid unto him; come, come, put me into a ſhip, and ſend me whether thou wilt, that this body of mine may do ſome good to my <hi>Countrey,</hi> before crooked age conſume my life without profit.</p>
+                  <p>O that there were ſuch a heart in us, but to ſay aſide our own <hi>particular relations and in<g ref="char:EOLhyphen"/>tereſts,</hi> that there may not be ſo many a breach
+<pb n="31" facs="tcp:54734:17"/>in the publick; let us be weak with the weak, as well as ſtrong with the ſtrong, that we may make up breaches.</p>
+               </div>
+            </div>
+            <div n="3" type="part">
+               <head>III. PART. <hi>For a further help to unity I ſhall lay down ſome other Principles to unite our judge<g ref="char:EOLhyphen"/>ments; and ſubmit them to the judgement of the Saints, whether they ſpeak according to God or no.</hi>
+               </head>
+               <div n="1" type="principle">
+                  <head>The firſt Principle.</head>
+                  <p n="1">1. SEeing there is nothing to be practiſed,
+<note place="margin">1. Principle, make the Scripture judge.</note> believed or taught, which is not agree<g ref="char:EOLhyphen"/>able to the mind of God, <hi>Let us make the Word of God our Judge.</hi>
+                  </p>
+                  <p>The Scriptures <hi>(us is granted by all that I write to)</hi> are the touchſtone by which all reli<g ref="char:EOLhyphen"/>gious Principles and Acts are to be tryed. <hi>To the Law and to the Teſtimony,</hi> if they ſpeak not according to this rule, 'tis becauſe there is no light in them, <hi>Iſa.</hi> 8.20. Let nothing paſſe for <hi>currant coine,</hi> which hath not this <hi>ſtamp</hi> up<g ref="char:EOLhyphen"/>on it.</p>
+                  <p>Certainly no Chriſtian will refuſe to make the truth of God contained in the Scriptures the judge of all he holds and practiſeth, it be<g ref="char:EOLhyphen"/>ing the <hi>baſis</hi> of both, if they be laid on their true foundation; <hi>'tis the tryal which tryes all;</hi> and therefore bring your opinions to the light, to ſee whether they be of God or no.</p>
+                  <p>If the Scriptures write <hi>jus divium,</hi> divine right upon any opinion, 'tis then <hi>authentick;</hi> but
+<pb n="32" facs="tcp:54734:18"/>all other authority is not ſufficient to command either faith or practice. The <hi>Bereans</hi> [<hi>Acts</hi> 17.11.] were cal'd more noble then they of <hi>Theſſalo<g ref="char:EOLhyphen"/>nica,</hi> becauſe they did not take things upon truſt, and believe <hi>implicitely,</hi> but ſearched the Scri<g ref="char:EOLhyphen"/>ptures daily, whether theſe things were ſo. If any man or <hi>an Angel from Heaven</hi> bring you any other Doctrine, let him be accurſed, <hi>Gal.</hi> 1.8.</p>
+                  <p>Certainly theſe are the undoubted, perfect and infallible rule, for all matters of faith and practice, or God could not judge the world by them at the laſt day.</p>
+                  <p>Let us do therefore as the <hi>wife men,</hi> when they ſaw the <hi>ſtarre,</hi> go up to <hi>Jeruſalem,</hi> that is, to the Law and to the teſtimony, and willingly acquieſce in the <hi>Anſwer</hi> we receive from the <hi>Oracles</hi> of God.</p>
+               </div>
+               <div n="2" type="principle">
+                  <head>The ſecond Principle.</head>
+                  <p n="2">2.
+<note place="margin">2. Principle, Right underſtanding of Scriptures.</note> 
+                     <hi>Labour for a right underſtanding of Scri<g ref="char:EOLhyphen"/>pture;</hi> for the want of this makes all our differ<g ref="char:EOLhyphen"/>ences; <hi>we erre, not knowing the Scriptures.</hi> Every one indeed brings Scripture, but moſt bring <hi>their owne,</hi> not the <hi>Scriptures owne</hi> ſenſe, for their opinions.</p>
+                  <div type="section">
+                     <head type="sub">For a right underſtanding of Scripture take theſe three courſes.
+<note place="margin">Three helps to under<g ref="char:EOLhyphen"/>ſtand scripture. 1. The Spirit.</note>
+                     </head>
+                     <p>Firſt, <hi>Conſult with the ſpirit of God.</hi> None knoweth the mind of God, but the ſpirit of God, 1 <hi>Cor.</hi> 2.11. The <hi>Philiſtims</hi> by <hi>plow<g ref="char:EOLhyphen"/>ing</hi> with <hi>Sampſons heifer,</hi> came to know his <hi>riddle.</hi>
+                        <note place="margin">James 1.5.</note> If any therefore want wiſdom, let him ask it of God, who giveth liberally and upbraideth not;
+<note place="margin">Luke 11.12.</note> yea he giveth the <hi>ſpirit</hi> to them that ask him.</p>
+                     <pb n="33" facs="tcp:54734:18"/>
+                     <p>Secondly, <hi>Conſult with the Saints;</hi>
+                        <note place="margin">2. The Saints.</note> for the ſecret of the Lord is with them that fear him, and he will ſhew <hi>them</hi> his Covenant, [<hi>Pſal.</hi> 25.14] converſe with them who converſe with God. The Saints have clearer apprehenſions of the Scripture then other men; and can give a better account of the myſtery <hi>(not ſo perhaps of the Hiſtory)</hi> then many a learned man can do: the <hi>reaſon is apparent;</hi> for the godly man, though illiterate, hath the Law in his heart, and the truth in his inward parts; <hi>The Bible is tranſcrib'd within him.</hi> But the moſt learned man in the world (if not a Saint) hath it not in the <hi>experience,</hi> though he have it in the <hi>expreſſion.</hi>
+                     </p>
+                     <p>Not beloved that I ſpeak in <hi>diſlike</hi> of learn<g ref="char:EOLhyphen"/>ing and its uſe; <hi>no,</hi> I do confeſſe that next to the Lord Jeſus Chriſt, and Communion with God in him, there is <hi>no portion</hi> (whether riches, honours or pleaſures) <hi>like unto it,</hi> in my e<g ref="char:EOLhyphen"/>ſteem. This by the way; <hi>now to our purpoſe.</hi>
+                        <note place="margin">Prov. 24.6.</note>
+                     </p>
+                     <p>It is good therefore to conſult with the Saints, a conjunction of Counſellors will do well, for in the multitude of them there is like to be ſafety, <hi>Prov.</hi> 11.14. As <hi>to depend only on other mens judgement, were to make as if the ſpirit had not come to thy ſelf; ſo to depend only on thy own judgement, were to make as if the ſpirit of God had not come to others.</hi>
+                     </p>
+                     <p>Thirdly,
+<note place="margin">Three other Rules.</note> 
+                        <hi>Uſe</hi> ſuch <hi>helps</hi> as God hath made uſeful to others for their right underſtanding of Scriptures.</p>
+                     <q>
+                        <note place="margin">Rules for the under<g ref="char:EOLhyphen"/>ſtanding of the Scri<g ref="char:EOLhyphen"/>pture.</note> Such as God hath made uſeful to me and many o<g ref="char:EOLhyphen"/>ther Chriſtians, I ſhall ſet before you; I ſpeak as to wiſe men, judge ye what I ſay.</q>
+                  </div>
+                  <div n="1" type="rule">
+                     <pb n="34" facs="tcp:54734:19"/>
+                     <head>The firſt Rule.</head>
+                     <p n="1">1.
+<note place="margin">The firſt Rule.</note> That the <hi>Father, Son</hi> and <hi>Spirit;</hi> as they are one, ſo they <hi>agree in one,</hi> 1 <hi>Joh.</hi> 5.7, 8. they have but one deſigne. The Father, Son and Spi<g ref="char:EOLhyphen"/>rit are not like the gods of the heathen <hi>(which indeed are not gods)</hi> always quarrelling one with another, claſhing againſt, and contradicting one another, <hi>though they will many things, their will is but one.</hi>
+                     </p>
+                     <p>Therefore if you find in Scripture, that <hi>the Sonnes deſigne</hi> in Redemption, ſeems to be of larger extent then <hi>the Fathers</hi> in Election, and <hi>the Spirits</hi> in Sanctification, reconcile it by this rule, for there is but <hi>one and the ſame object</hi> of the Fathers <hi>Election,</hi> the Sons <hi>Redemption,</hi> and the Spirits <hi>Sanctification</hi> to eternal life.</p>
+                  </div>
+                  <div n="2" type="rule">
+                     <head>The ſecond Rule.</head>
+                     <p n="2">2.
+<note place="margin">Second Rule.</note> 
+                        <hi>Every particular is to be interpreted by the ſcope of the whole,</hi> and that will free Scriptures from all ſeeming contradictions.</p>
+                     <p>
+                        <hi>Paul</hi> ſaith, <hi>Rom.</hi> 3.28. a man is juſtified by Faith, without (
+<note n="*" place="margin">
+                           <gap reason="foreign" resp="#OXF">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</note> 
+                        <hi>or apart from</hi>) the deeds of the law: but <hi>Iam.</hi> 2.24. Ye ſee then how that by works a man is juſtified, and not by faith only,
+<note n="*" place="margin">
+                           <gap reason="foreign" resp="#OXF">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</note> 
+                        <hi>or alone.</hi>
+                     </p>
+                     <p>Now here ſeems to be a contradiction; but the ſcope of the Scripture will unty this knot <hi>(as I underſtand)</hi> thus. By <hi>Faith alone</hi> we are juſtified, but the <hi>Faith</hi> by which we are juſtifi<g ref="char:EOLhyphen"/>ed is not <hi>alone; 'Tis</hi> not (as I conceive) <hi>the work</hi> Faith, <hi>nor the works of Faith,</hi> but a <hi>working Faith</hi> whereby we are juſtified.</p>
+                     <p>
+                        <hi>By Faith the Perſon is juſtified, and by works the Faith is juſtified;</hi> and thus beloved (I hope) you ſee clearly, that there is not <hi>concordia diſcors,</hi> a diſagreeing agreement, but <hi>diſcordia
+<pb n="35" facs="tcp:54734:19"/>concors,</hi> an agreeing diſagreement between theſe two Scriptures.</p>
+                     <p>One ſaith <hi>(to this our purpoſe)</hi> that to hang on any word or phraſe in a Text and neglect the ſcope, ſa<g ref="char:EOLhyphen"/>vours of an <hi>Hereticall</hi> diſpoſition. And <hi>Luther</hi> hath a ſweet ſaying to this purpoſe, <hi>Grammaticam decet Theologiae cedere, quùm ſubjecta ſunt verba rebus, non res verbis: vox meritò ſenſum ſequatur &amp; litera ſpi<g ref="char:EOLhyphen"/>ritum.</hi> The ſenſe in ſhort is this, Words muſt give place to the matter and ſenſe; <hi>His reaſon is this,</hi> be<g ref="char:EOLhyphen"/>cauſe the matter is not for the words, but the words for the matter. And <hi>again</hi> Divinely, <hi>Iſte modus in<g ref="char:EOLhyphen"/>telligendi aut interpretandi Scripturas, diverſa ſcil. ex diverſis locis decerpere, eſt fallaciſſimus; habenda i<g ref="char:EOLhyphen"/>gitur eſt tota Scriptura ante oculos, &amp; contraria con<g ref="char:EOLhyphen"/>trariis conferenda.</hi> That way of underſtanding or in<g ref="char:EOLhyphen"/>terpreting Scriptures, <hi>viz</hi> to gather diverſe things from diverſe places, is moſt deceitfull: the whole Scripture therefore is to be had before our eyes, and contraries to be compared with contraries.</p>
+                     <p>
+                        <hi>Friends,</hi> I hope it will not be an offence to any to quote an Author; for I believe, <hi>'Tis as lawfull to conſult with the experience of dead as of living Saints.</hi>
+                     </p>
+                  </div>
+                  <div n="3" type="rule">
+                     <head>The third Rule.</head>
+                     <p n="3">3. <hi>The place is not truly interpreted,
+<note place="margin">3 Rule.</note> nor conſequence well inferr'd, the conſequence whereof is an abſurdity,</hi> and ſpeaks any thing to the diſparagement of the God of grace, or the grace of God, as <hi>Luther</hi> (Divine <hi>Luther, Omnis Scriptura eſt pro Chriſto interpretenda, ex. gr. Serva mandata, ſcil in Chriſto; quia fine Chri<g ref="char:EOLhyphen"/>ſto nihil poteſtis:</hi> All Scripture is to be interpreted for Chriſt, as, keep the Commandements; <hi>viz.</hi> in Chriſt: for without him ye can do nothing.</p>
+                     <p>
+                        <hi>And againe,</hi> fully excellent and excellently full: <hi>Si Adverſarii urgent Scripturam contra Chriſtans,
+<pb n="36" facs="tcp:54734:20"/>urgeamus Chriſtum contra Scripturam.</hi> If our adver<g ref="char:EOLhyphen"/>ſaries urge Scripture againſt Chriſt, let us urge Chriſt againſt Scripture.</p>
+                     <p>If the interpretation of any Text, draw ſuch infer<g ref="char:EOLhyphen"/>ences after it as theſe, <hi>viz. That God is unjuſt; that God is mutable; that God cannot do all things; that Chriſt is not able of and by himſelfe to ſave to the ut<g ref="char:EOLhyphen"/>moſt, that the Saints ſhall not be kept through Faith by the power of God to ſalvation:</hi> I ſay, if ſuch inferences follow the interpretation of any Scripture, 'tis not truly interpreted: <hi>for they cannot ſpeak againſt the truth, but for the truth.</hi>
+                     </p>
+                  </div>
+                  <div n="4" type="rule">
+                     <head>The fourth Rule.</head>
+                     <p n="4">4.
+<note place="margin">4 Rule.</note> 
+                        <hi>Take heed of diſtinctions;</hi> though there may be uſe of them, yet for the moſt part, <hi>the moſt part of di<g ref="char:EOLhyphen"/>ſtinctions</hi> ariſe from darkneſs and ignorance, or from wilfulneſs: Therefore take heed of them, and admit not of any which are not <hi>well grounded</hi> on the Scrip<g ref="char:EOLhyphen"/>ture. Did we ſpeak more <hi>punctually</hi> to all points, and more <hi>diſtinctly,</hi> there would be fewer diſtinctions.</p>
+                     <p>It is a common thing with many men, that cannot or will not <hi>(Oh that there were not ſuch as will not.)</hi> underſtand the truth, to raiſe diſtinctions and evade that way. When men know not what to ſay then like <hi>Sophiſters</hi> they cry <hi>diſtinguiſh,</hi> we muſt diſtinguiſh. And then <hi>Materialiter</hi> and <hi>formaliter, ſtrictè</hi> and <hi>latè (poore thread-bare tearmes)</hi> are toſſed up and downe like <hi>Tennis-Balls.</hi>
+                     </p>
+                  </div>
+                  <div n="5" type="rule">
+                     <head>The fifth Rule.</head>
+                     <p n="5">5.
+<note place="margin">5 Rule.</note> 
+                        <hi>Parables and ſimilitudes hold not in the parti<g ref="char:EOLhyphen"/>culars, but in the whole; not in every ſentence, but in the ſcope.</hi>
+                     </p>
+                     <p>They runne not on all ſoure, as we ſay: they are of more uſe for <hi>Illuſtration</hi> then <hi>Demonſtration.</hi> And
+<pb n="37" facs="tcp:54734:20"/>I believe there is not a truth held out in a <hi>parable,</hi> but i'ts held forth alſo in ſome other place of Scripture, which will be better to ground on, being <hi>uſually</hi> more cleare.</p>
+                  </div>
+                  <div n="6" type="rule">
+                     <head>The ſixth Rule.</head>
+                     <p n="6">6 Seeing God in Scripture ſpeaks much in a lit<g ref="char:EOLhyphen"/>tle, <hi>interpret Scripture in the largeſt ſenſe.</hi>
+                        <note place="margin">6 Rule. The Hebrew Doctors ſay that the Law hath ſeventy faces, i. e. manner of ways to beopen<g ref="char:EOLhyphen"/>ed and applyed.</note> Scripture is like to <hi>Laws of favour,</hi> which are to be extended as farre as may be. We wrong many a Text of Scri<g ref="char:EOLhyphen"/>pture by comfining, bounding and limiting it in a narrow compaſſe.</p>
+                     <p>The <hi>Evangeliſts</hi> look upon ſeverall Texts as ful<g ref="char:EOLhyphen"/>filled in their days, which were fulfilled long before; as <hi>Matth.</hi> 3.17. Then was fulfilled that which was ſpoken by the Prophet <hi>Jeremiah,</hi> ſaying, &amp;c Now this was fulfilled <hi>Literally</hi> in <hi>Jeremy</hi> 31.15. When <hi>Ephraim (which came from Rachel)</hi> was in captivity,
+<note place="margin">In the New Te<g ref="char:EOLhyphen"/>ſtament the Ap<g ref="char:EOLhyphen"/>ſtles bring the ſame. Teſtamony to diverſe pur<g ref="char:EOLhyphen"/>poſes.</note> and fulfilled here by <hi>alluſion;</hi> as much as if it had been ſaid, <hi>we may now take up the words of the Pro<g ref="char:EOLhyphen"/>phet;</hi> as if that place was not fulfill'd till now. And ſo you ſhall often finde <hi>ſeverall</hi> Texts upon <hi>ſeverall</hi> occaſions applyed to <hi>ſeverall</hi> uſes; which ſhews that the <hi>ſenſe ſhould not be confined.</hi> As for inſtance, that Text [<hi>Hab.</hi> 2.4. <hi>The juſt ſhall live by Faith</hi>] is ap<g ref="char:EOLhyphen"/>plyed in ſeverall ſenſes, as appears by comparing it with <hi>Romans</hi> 1.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>7. <hi>Gal.</hi> 3.11. <hi>Heb.</hi> 10.38. in all which places 'tis quoted</p>
+                  </div>
+                  <div n="7" type="rule">
+                     <head>The ſeventh Rule.</head>
+                     <p n="7">7. No place muſt be interpreted ſo,
+<note place="margin">7 Rule.</note> as to make the two Commandements, <hi>love God</hi> and <hi>love your Neighbour,</hi> to prejudice each other. As the Proverb is, <hi>we muſt not rob</hi> Peter <hi>us cloath</hi> Paul We may not take from God, to give to our Neighbour, nor take from our Neighbour, to give to God.</p>
+                     <pb n="38" facs="tcp:54734:21"/>
+                     <p>As <hi>Honour thy Father and thy Mother:</hi> now we muſt not under pretence of <hi>honouring</hi> our Parent; <hi>diſho<g ref="char:EOLhyphen"/>nour</hi> God; no, <hi>'tis obedience to diſobey them, wherein we cannot obey them, unleſſe we diſobey God.</hi> Neither may we under pretence of <hi>Corban</hi> or a gift,
+<note place="margin">Mark 7.11.</note> refuſe to do ought for our Father and Mother, <hi>as God com<g ref="char:EOLhyphen"/>mands us,</hi> leſt we make the word of God of none effect.</p>
+                  </div>
+                  <div n="8" type="rule">
+                     <head>The eighth Rule.</head>
+                     <p n="8">8.
+<note place="margin">8 Rule.</note> 
+                        <hi>Diſtinguiſh</hi> between <hi>things ſpoken properly, and things ſpoken figuratively,</hi> as alſo between things meant literally, and things meant ſpiritually. The Prophet <hi>Malachy</hi> ſaid, <hi>Mal.</hi> 4.5. that <hi>Elias</hi> muſt firſt come, which was ſpoken of <hi>John</hi> the Baptiſt as <hi>Chriſt</hi> cleares it. <hi>Mat.</hi> 17.12. So theſe words <hi>Mat.</hi> 16.6. Be<g ref="char:EOLhyphen"/>ware of the <hi>Leaven</hi> of the <hi>Phariſees,</hi> are not meant properly, but figuratively.</p>
+                     <p>If a man ſhould take that place [<hi>Mat.</hi> 5.29. <hi>If thine eye offend thee, pull it out</hi>] literally, he might be guilty of <hi>Selfe-murder.</hi> Therefore it is to be un<g ref="char:EOLhyphen"/>derſtood ſpiritually; <hi>viz.</hi> of any thing that is as neare, deare and tender as our eye to us. <hi>Origen,</hi> who interpreted all, <hi>or almoſt all</hi> other places of Scripture myſtically, underſtood this place literally [<hi>Mat.</hi> 19.12. Some make themſelves Eunuches for the King<g ref="char:EOLhyphen"/>dome of God] and thereupon gelded himſelfe: but ſurely <hi>Origen</hi> had not that <hi>ab origene;</hi> for from the be<g ref="char:EOLhyphen"/>ginning it was not ſo; it was not <hi>inſtituted</hi> by God; therefore muſt not be <hi>executed</hi> by man.</p>
+                  </div>
+                  <div n="9" type="rule">
+                     <head>The nineth Rule.</head>
+                     <p n="9">9.
+<note place="margin">9 Rule.</note> All places which ſpeak of Adminiſtrations and Adminiſtrators, <hi>are beſt underſtood and interpreted, the nearer the ſenſe comes to Gods deſigne.</hi> Gods de<g ref="char:EOLhyphen"/>ſigne is, <hi>Eph.</hi> 4.11, 12, 13. by all Adminiſtrators and Adminiſtrations to bring about the <hi>perfecting</hi> of the Saints, the <hi>worke</hi> of the Miniſtery, and the <hi>edify<g ref="char:EOLhyphen"/>ing</hi>
+                        <pb n="39" facs="tcp:54734:21"/>of the Body of Chriſt, till we all come, &amp;c.</p>
+                     <p>Now all Adminiſtrations and Adminiſtrators be<g ref="char:EOLhyphen"/>ing to help on <hi>this,</hi> the places of Seripture ſpeaking of ſuch things, are <hi>undoubtedly</hi> beſt underſtood <hi>in the ſenſe</hi> which doth promote that worke.</p>
+                  </div>
+                  <div n="10" type="rule">
+                     <head>The tenth Rule.</head>
+                     <p n="10">10. <hi>If Scripture ſpeak it, believe it,
+<note place="margin">10 Rule.</note> though Reaſon cannot finde out the reaſon of it.</hi> The Scripture ſaith in <hi>Iob</hi> 26.7. That the earth hangeth on nothing. The Scripture ſaith, that one is three, and three are one. 1 <hi>Ioh.</hi> 5.7. <hi>How can reaſon think this true?</hi> and yet 'tis true; for God who is truth, and ſpeaks no<g ref="char:EOLhyphen"/>thing but truth, ſaith 'tis ſo.</p>
+                     <p>Yea, let me adde, that <hi>could God be comprehended by our reaſon, we might think it reaſon to think he were not God.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="3" type="principle">
+                  <head>The third Principle.</head>
+                  <p n="3">3. If after all theſe <hi>endeavours,</hi>
+                     <note place="margin">3 Principle.</note> to attaine and ob<g ref="char:EOLhyphen"/>taine the <hi>right underſtanding</hi> of Scripture, they yet ſeem in any particular <hi>to ſpeake darkly:</hi> and as to ex<g ref="char:EOLhyphen"/>ternall diſpenſations, thou know not with which to cloſe, <hi>make holineſs thy Rule.</hi>
+                  </p>
+                  <p>That way which conduceth moſt to <hi>ſelf-abaſing and Chriſts advancement,</hi> is the ſafeſt: and did Chri<g ref="char:EOLhyphen"/>ſtians judge of opinions and practices by this Rule, they would better diſcern between things that differ.</p>
+                  <p>You heare men ſay <hi>this is Chriſt,</hi> and <hi>here is Chriſt,</hi> and both may ſeem probable to you; but you know not how to determine: there are ſtrong argu<g ref="char:EOLhyphen"/>ments on both hands. Now <hi>conſider,</hi> and in good earneſt weigh, and that <hi>without partiality,</hi> which makes moſt <hi>for a moſt exact walking with God,</hi> and building up one another in the Faith and feare of Jeſus Chriſt, and accordingly ingage.</p>
+               </div>
+               <div n="4" type="principle">
+                  <pb n="40" facs="tcp:54734:22"/>
+                  <head>The fourth Principle.</head>
+                  <p n="4">4.
+<note place="margin">4 Principle.</note> 
+                     <hi>Make not that common to all, which God hath made peculiar to ſome;</hi> nor make that peculiar to ſome, which God hath made common to all; do not ye <hi>inlarge</hi> when God hath <hi>ſtrait'ned,</hi> nor <hi>ſtraiten</hi> when God hath <hi>inlarged.</hi> Caſt not <hi>Pearles</hi> before <hi>Swine,</hi> nor give the <hi>Childrens</hi> Bread to <hi>Dogs:</hi> neither re<g ref="char:EOLhyphen"/>fuſe to give the <hi>children</hi> bread, and deny not <hi>Pearles</hi> to them whom God hath made his <hi>Iewells.</hi>
+                  </p>
+                  <p>
+                     <hi>Give every one his due;</hi> tribute to whom tribute, love to whom love, honour to whom honour. <hi>Be not you ſhy</hi> of joyning your ſelves when God will joyne himſelfe; leſt you call call that <hi>common</hi> and uncleane which God hath <hi>ſanctified.</hi> be ſure alſo to make a difference between the <hi>precious and the vile;</hi>
+                     <note place="margin">Ier. 15.20.</note> then God will make you unto this people <hi>a fenced brazen Wall,</hi> and though they fight againſt you, they ſhall not prevaile; for the Lord will be with you to ſave you.</p>
+               </div>
+               <div n="5" type="principle">
+                  <head>The fifth Principle.</head>
+                  <p n="5">5.
+<note place="margin">5 Principle.</note> 
+                     <hi>Confine not God to any, nor deny to God any way of working;</hi> know this, that he worketh, when, where, how, and by whom he pleaſeth. Becauſe the firſt <hi>Goſpel Miniſtery</hi> was with miracles, can there be none now <hi>without miracles?</hi> why will ye limit the holy one of Iſrael?</p>
+                  <p>If he bring about his end, that is, by the Goſpel to bring in poore ſinners to himſelf what matters it whether it be done by the Work of his Hand, or by the Word of his Mouth?</p>
+                  <p>And yet <hi>who knowes</hi> but God who did, will again appeare <hi>in working miracles;</hi> eſpecially at the cal<g ref="char:EOLhyphen"/>ling in of the <hi>Iewes,</hi> as he did then at the calling of the <hi>Gentiles.</hi> But whether he will or no, let not us limit the holy one of Iſrael.</p>
+               </div>
+               <div n="6" type="principle">
+                  <pb n="41" facs="tcp:54734:22"/>
+                  <head>The ſixth Principle.</head>
+                  <p n="6">6. <hi>Do not divorce what God hath married,</hi>
+                     <note place="margin">6 Principle.</note> nor ſepa<g ref="char:EOLhyphen"/>rate what God hath joyned together. The <hi>fulfilling</hi> of the righteouſneſſe of the Law without us, doth not hinder the <hi>fulfilling</hi> of it within us; nor the <hi>fulfilling</hi> of the righteouſneſs of the Law in us, de<g ref="char:EOLhyphen"/>ny the <hi>fulfilling</hi> of the Law without us.</p>
+                  <p>Why ſhould ſome <hi>(like the Corinthians)</hi> cry up <hi>Paul,</hi> and <hi>Apollo,</hi> and <hi>Cephas,</hi> and neglect <hi>Chriſt?</hi> and others cry up Chriſt, and neglect
+<note n="*" place="margin">Yea that reject.</note> 
+                     <hi>Paul</hi> and <hi>Apollo?</hi> ſurely <hi>Paul, Apollo, Cephas,</hi> and Chriſt are <hi>very good</hi> friends. <hi>Chriſt</hi> is not <hi>included</hi> in <hi>Paul,</hi> nor <hi>excluded</hi> from <hi>Paul;</hi> but is <hi>within</hi> him, and <hi>without</hi> him.</p>
+                  <p>Some cry up Chriſt in the fleſh, others Chriſt in the ſpirit; but beloved, <hi>is Chriſt divided?</hi> ſurely Chriſt in the fleſh, and Chriſt in the ſpirit, <hi>do not oppoſe</hi> one another; why then ſhould any <hi>oppoſe them</hi> one to another?</p>
+                  <p>Some are altogether for the letter, others for the ſpirit and meaning of the word; Beloved, why ſhould ye not be for both in one, ſeeing they agree in one? <hi>Letter and ſpirit, Word and meaning, do not diſagree nor croſſe one another.</hi> The leſſon when the Scholar hath learned it by heart, doth not differ from that in the Book, they are ſtill one and the ſame leſſon.</p>
+                  <p>
+                     <hi>The Word is the meaning expreſt, the meaning is the Word explained.</hi> Onely let me adde, that though the word <hi>includes</hi> the meaning fully, yet it doth not <hi>fully expreſſe</hi> the meaning; as appears by Chriſts ex<g ref="char:EOLhyphen"/>poſition of the Law, <hi>Mat.</hi> 5.</p>
+                  <p>Some look but little to the <hi>outward</hi> converſation, as if all Religion conſiſted in an <hi>inward retirement</hi> and contemplation; others look as little to the <hi>in<g ref="char:EOLhyphen"/>ward,</hi> as if all Religion were in the <hi>outward man:</hi> but beloved, the inward and outward man
+<pb n="42" facs="tcp:54734:23"/>make <hi>but one man;</hi> the inward and outward conver<g ref="char:EOLhyphen"/>ſation but <hi>one conformity</hi> to the Will of God. <hi>He doth not enjoy much of God within, who walks not much with God without: nor doth he walk much with God without, who enjoyes not much of God within.</hi>
+                  </p>
+               </div>
+               <div n="7" type="principle">
+                  <head>The ſeventh Principle.</head>
+                  <p n="7">7.
+<note place="margin">7 Principle.</note> 
+                     <hi>What ever was either rule or priviledge under the Law, is ſtill ſo under the Goſpel, unleſſe we can ſhew its abrogation.</hi> What was once diſcovered to be the will of God, continues to be ſo till he himſelfe do diſanul it. We ſee indeed that many things are revoked, and though they were once his will, are his will no longer: <hi>for God doth not ſpeak the word be<g ref="char:EOLhyphen"/>cauſe the word is right, but the word is right becauſe God ſpeaks it.</hi>
+                  </p>
+                  <p>Let us not therefore think that the <hi>Old Teſta<g ref="char:EOLhyphen"/>ment's</hi> authority is not proof ſufficient; ſurely <hi>as far as I underſtand,</hi> his will there, is not abrogated in the <hi>New Teſtament,</hi> abides ſtill in its full force.</p>
+               </div>
+               <div n="8" type="principle">
+                  <head>The eighth Principle.</head>
+                  <p n="8">8.
+<note place="margin">8 Principle.</note> 
+                     <hi>Uſe ſweetneſſe rather then violence,</hi> words ra<g ref="char:EOLhyphen"/>ther then Swords <hi>to convince one another;</hi> uſe <hi>verba</hi> rather then <hi>verbera; Argumenta Ariſtotelica,</hi> rather then <hi>Bacillina;</hi> rational <hi>Arguments,</hi> rather then <hi>club-Law,</hi> to win upon each other.</p>
+                  <p>Certainly, if <hi>reaſon and Scripture</hi> will not pre<g ref="char:EOLhyphen"/>vaile, <hi>impriſonment,</hi> &amp;c. are not like to do it. I am ſure <hi>the firſt</hi> is more ſutable to <hi>man,</hi> who cares not to be bound but with the <hi>cords of a man,</hi> viz. <hi>love; cords may binde up his hands that he cannot hurt, but love binds up his heart that he will not hurt,</hi>
+                  </p>
+                  <p>A Cart may break yee, but it doth abide yee ſtill, but the Sun doth melt it out of it ſelf.</p>
+                  <p>I beſeech you <hi>Beloved,</hi> let us rather pray one for
+<pb n="43" facs="tcp:54734:23"/>another, then make <hi>a prey</hi> one of another: if Chriſt come and find us beating <hi>our fellow-ſervants,</hi> how, ah how ſhall we look him in the face? <hi>Oh that every one that reads, would ask his heart concerning every Rule, and Principle, how far it doth concern himſelf, and not put off, as if others, and not himſelf were ſpoken to.</hi>
+                  </p>
+                  <p>Conſider what hath been ſaid,
+<note place="margin">Try all things, hold faſt that. which is good.</note> and the Lord give you underſtanding in all things.</p>
+               </div>
+            </div>
+            <div n="4" type="part">
+               <head>PART. IV <hi>I ſhall adde ſome Arguments to provoke us to mutual love.</hi>
+               </head>
+               <div n="1" type="argument">
+                  <head>The firſt provoking Argument.
+<note place="margin">1 Argument.</note>
+                  </head>
+                  <p n="1">1 <hi>TIs the will and command of the Lord Jeſus Chriſt that we love</hi> one another. And oh with what <hi>willingneſſe</hi> ſhould Chriſtians embrace the <hi>will</hi> of Chriſt? Certainly if his command be <hi>grievous</hi> to us, the love of God is not in us, 1 <hi>John</hi> 5.3.</p>
+                  <p>Alas! how little is <hi>love your enemies</hi> obſerved, when <hi>love one another</hi> is ſo little regarded! Surely you would have been loth to have dealt <hi>ſo unkindly</hi> with a dead friend as not to obſerve <hi>his laſt Will and Teſtament;</hi> and will ye deale thus with Chriſt? <hi>are theſe the effects of your affection?</hi> How can you prove what you profeſſe, <hi>that you are his friends,</hi> when he ſaith, <hi>John</hi> 15.14. ye are my friends if ye do whatſoever I command you? <hi>never talk of friend<g ref="char:EOLhyphen"/>ſhip unleſſe you obey him.</hi>
+                  </p>
+                  <p>Reade over that place (<hi>not overly,</hi> but ſeriouſly) 1 <hi>John</hi> 4.20. If a man ſay <hi>I love God, and hate his Brother, he is a lyar.</hi> Do ye ſee this Chriſtians? Who ſpeaks truth? God or you? You ſay you love God; God ſaith you lie, for you love not one an<g ref="char:EOLhyphen"/>other.</p>
+                  <pb n="44" facs="tcp:54734:24"/>
+                  <p>Meane ye to <hi>mock God,</hi> when ye call upon him and pray, <hi>thy will be done?</hi> is not this his will, that ye <hi>love one another?</hi> what would you have God ſay <hi>Amen,</hi> and you will not ſay <hi>ſo be it?</hi>
+                  </p>
+               </div>
+               <div n="2" type="argument">
+                  <head>The ſecond provoking Argument.</head>
+                  <p>Secondly,
+<note place="margin">2 Argument.</note> 
+                     <hi>We have Chriſt for an example;</hi> he lived and loved as well as ſuffered and died, leaving us an example. <hi>This is all</hi> we have to do in the world, <hi>to ſhew forth the vertues of Chriſt, and to wulk as we have him for an example.</hi> We write not after our copy, unleſſe we live and love as Chriſt did.</p>
+                  <p>See that <hi>remarkable</hi> inference, 1 <hi>John</hi> 4. <hi>v.</hi> 10, 11. <hi>Herein is love</hi> no, t that we love God, but that he loved us, and ſent his Sonne to be the propitiation for our ſins, <hi>v.</hi> 11. He draws this inference, If God ſo loved us, <hi>what then?</hi> muſt we love God again? <hi>nay that is not all,</hi> but, how ought we to love one another, <hi>God having given us ſuch an example?</hi>
+                  </p>
+                  <p>Chriſt told the <hi>Jews</hi>
+                     <note n="*" place="margin">Abrahams children, ſons of imitation.</note>, that if they had made <hi>A<g ref="char:EOLhyphen"/>braham</hi> their example, they would do as <hi>Abraham</hi> did; and ſurely did we propoſe Chriſt for our <hi>ex<g ref="char:EOLhyphen"/>ample,</hi> we ſhould walk as <hi>Chriſt.</hi> If a <hi>Painter</hi> tell me he is about to draw the <hi>Picture of a man,</hi> and it prove to be <hi>lik a beaſt,</hi> I ſhall hardly beleeve that he had the <hi>Idea of a Man</hi> as an example in his <hi>fancy.</hi>
+                  </p>
+                  <p>Surely, while the <hi>products</hi> and reſults of our <hi>un<g ref="char:EOLhyphen"/>dertakings</hi> be ſo brutiſh and <hi>diabolical;</hi> how can a<g ref="char:EOLhyphen"/>ny man think that we have Chriſt <hi>as a pattern,</hi> un<g ref="char:EOLhyphen"/>leſſe they judge Chriſt by us to be according to us, <hi>viz.</hi> malicious and envious as we are?</p>
+                  <p>
+                     <hi>Ah my Brethren!</hi> tender the honour of Chriſt more; he hath told the World that they may reade <hi>him</hi> in you, and your obedience to his commands will give all the world to underſtand that ye are his Diſciples: <hi>alas,</hi> what will men think of Chriſt,
+<pb n="45" facs="tcp:54734:24"/>when they ſee his Diſciples walk in ſtrife and bitter envyings?</p>
+                  <p>You are <hi>his Epiſtle</hi> to be known and read of all men; and if the <hi>copy</hi> contain ſuch bitter things, will they not think that the <hi>original</hi> contains the ſame? <hi>Ah Beloved! why do you bring up an evill report up<g ref="char:EOLhyphen"/>on the Lord Ieſus?</hi>
+                  </p>
+                  <p>When the ſtreams are bitter, will any think the fountain ſweet? The Academicks, the Peripateticks, the Stoicks, and Epicureans, <hi>and all the ſects of the Philoſophers,</hi> were more careful to follow their lead<g ref="char:EOLhyphen"/>ers, then Chriſtians are to follow Chriſt.</p>
+                  <p>But as <hi>Alexander</hi> ſaid to a cowardly ſouldier of his called <hi>Alexander, Leave off thy name, or fight bet<g ref="char:EOLhyphen"/>ter;</hi> never call your ſelves <hi>Chriſtians,</hi> and pretend to walk as you have Chriſt for an example, unleſſe men may read that in you, which was read in Chriſt, <hi>viz. love.</hi>
+                  </p>
+               </div>
+               <div n="3" type="argument">
+                  <head>The third provoking Argument.</head>
+                  <p>Thirdly, <hi>Love is debt.</hi> You owe love,
+<note n="*" place="margin">3 Argument. Aut hoe non eſt Evangelium, aut nos non ſu<g ref="char:EOLhyphen"/>mus Evangelici.</note> and ſhould owe nothing elſe to one another. <hi>Chriſtians, will ye not be honeſt men and pay your debt?</hi> Rom. 13.8, 9, 10. when you love one another, you ful<g ref="char:EOLhyphen"/>fil the Law, and pay your debt.</p>
+                  <p>Is it not ſtrange <hi>that Chriſtians ſhould be ſuch Antinomians?</hi> this is Chriſts Law, <hi>Love one an<g ref="char:EOLhyphen"/>other;</hi> now you are <hi>Antinomians</hi> if ye love not one another; certainly a man that is <hi>for love,</hi> is no <hi>Anti<g ref="char:EOLhyphen"/>nomian:</hi> for the Law is fulfilled in this one word, <hi>viz. Love.</hi> Look to it Chriſtians, you will never be out of the danger of being arreſted one by another, till you <hi>pay your debt,</hi> and love one another.</p>
+               </div>
+               <div n="4" type="argument">
+                  <head>The fourth provoking Argument.</head>
+                  <p>Fourthly,
+<note place="margin">4 Argument.</note> 
+                     <hi>Your union and communion</hi> one with an<g ref="char:EOLhyphen"/>other,
+<pb n="46" facs="tcp:54734:25"/>your loving one of another, <hi>will remove the ſcandals which your diviſions bring upon the truth of God.</hi> There is no ſuch ſtumbling block which cau<g ref="char:EOLhyphen"/>ſeth the world <hi>to wave the way of God,</hi> as the diviſi<g ref="char:EOLhyphen"/>on of Saints.</p>
+                  <p>It is bad like <hi>(ſaith the World)</hi> that they can teach us the truth, when they cannot agree about it themſelves. <hi>Bleſſed God!</hi> what a reproach is this? Oh that this ſhould be publiſhed in <hi>Askalon,</hi> and ſpoken in <hi>Gath!</hi>
+                  </p>
+                  <p>
+                     <hi>Chriſtians,</hi> would it not make you <hi>bluſh,</hi> if you ſhould hear poor ſouls <hi>(as I have heard (the Lord knows) with a ſorry heart)</hi> come and tell you, that there is <hi>nothing</hi> keeps them ſo much in doubt, <hi>no<g ref="char:EOLhyphen"/>thing</hi> fills them ſo full of fears, as <hi>the diviſion of Saints.</hi>
+                  </p>
+                  <p>Alas <hi>ſaith a poore ſoule,</hi> my ſoule is in a ſtrait betweene two, and what to do I know not; one tels me this is <hi>Scylla,</hi> another tels me that's <hi>Charyb<g ref="char:EOLhyphen"/>dis;</hi> one tells me that in that way <hi>there is a Lion,</hi> another tells me that if I leane on that wall <hi>a Ser<g ref="char:EOLhyphen"/>pent will bite me,</hi> and this ſaith the poore ſoule, even rends my heart to pieces.</p>
+                  <p>
+                     <hi>Ah Chriſtians!</hi> let the ſighing of theſe poore Babes and <hi>Infants ſoules,</hi> prevaile with you; yea, let them who as yet are unborne <hi>(being not new<g ref="char:EOLhyphen"/>borne)</hi> ſee your ſweet and loving converſation, that they may be won by it.</p>
+               </div>
+               <div n="5" type="argument">
+                  <head>The fifth provoking Argument.</head>
+                  <p>Fifthly,
+<note place="margin">5 Argument.</note> 
+                     <hi>Your living in love will midwife into the World, that long lookt, and longed for man-child of Reformation,</hi> with which we travel in birth to this very day.</p>
+                  <p>
+                     <hi>Alas!</hi> we are like <hi>Jacob</hi> and <hi>Eſau,</hi> ſtrugling in the wombe for priority and Elderſhip, and ſo prove
+<pb n="47" facs="tcp:54734:25"/>our <hi>ſelves fooliſh children</hi> by ſtanding in the way of breaking forth. Every body cries out, <hi>where is the Reformation?</hi> you promiſed us a Reformation; ah, will ye not lay it to heart? undoubtedly <hi>had you not fallen out about the way,</hi> you had come to your journeys end long ſince.</p>
+                  <p>
+                     <hi>Nothing retards and hinders publick motion, ſo much as diviſion;</hi> when one goes this way, another that. 'Tis ſpoken to the <hi>everlaſting praiſe</hi> of Iſrael, <hi>Judg.</hi> 18.1. they were gathered together <hi>as one man.</hi> And <hi>ver.</hi> 8. All the people aroſe <hi>as one man.</hi> So <hi>Ezra.</hi> 3.1. The people gathered together <hi>as one man. Nehe.</hi> 8.1. And all the people gathered together <hi>as one man.</hi>
+                  </p>
+                  <p>Had they been divided, how had the work gone on? <hi>Chriſtians,</hi> ſhall Iſrael <hi>in the fleſh</hi> be as one man, and ſhall not Iſrael <hi>in the ſpirit?</hi> were they ſo zea<g ref="char:EOLhyphen"/>lous for the <hi>Type,</hi> and ſhall not we for the <hi>Antitype?</hi> yea for the <hi>ſhadow,</hi> and ſhall not we for the <hi>body?</hi> as you love <hi>publick ſettlement</hi> and ſafety, love one another.</p>
+               </div>
+               <div n="6" type="argument">
+                  <head>The ſixth provoking Argument.</head>
+                  <p n="6">6. <hi>Union and love will preſerve you,
+<note place="margin">6 Argument.</note> but diviſion and envy will be your ruine,</hi> Gal. 5.15. But if yee bite and devoure one another, take heed ye be not conſumed one of another.</p>
+                  <p>
+                     <hi>What! are Chriſtians become like Milſtones, which having no griſe to grinde, ſet themſelves on fire?</hi> that the World ſhould hate you, and ſeek your ruine <hi>is no wonder;</hi> but that your ſelves ſhould hate one another, <hi>'tis monſtrous.</hi> Was it ever known that any hated his <hi>owne fleſh?</hi> you are fleſh of fleſh, and bone of bone, <hi>yea of one ſpirit with Jeſus Chriſt.</hi> Oh if you were but ſenſible, how ſenſible Jeſus Chriſt is hereof! Think ye that it paines him not to have his members thus disjoynted? ſurely he cries out,
+<pb n="48" facs="tcp:54734:26"/>
+                     <hi>I am wounded,</hi> yea my friends wound me.</p>
+                  <p>
+                     <hi>What!</hi> Brethren ſheath their Swords in each others bowels! Will ye bring that ruine upon your ſelves which <hi>the Divel and his agents</hi> have attempted, <hi>but in vaine?</hi> Will ye pull our one anothers eyes to make the <hi>Philiſtius</hi> ſport?</p>
+                  <p>
+                     <hi>Ah take heede,</hi> leſt whilſt you <hi>fall out</hi> among your ſelves, a common enemy <hi>fall in</hi> upon you and end the controverſy, <hi>by both your ends.</hi> Surely the World <hi>hug</hi> themſelves in theſe hopes; and the Saints <hi>ſhrugge</hi> for theſe feares.</p>
+                  <p>When <hi>Agamemnon</hi> and <hi>Achilles</hi> were fallen out, <hi>Homer</hi> brings in <hi>Neſtor</hi> perſwading them to recon<g ref="char:EOLhyphen"/>ciliation from theſe two arguments.</p>
+                  <q>
+                     <l>
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,</l>
+                     <l>
+                        <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</l>
+                  </q>
+                  <p>Alas! <hi>great ſadneſſe will the Greekes poſſeſſe;</hi>
+                  </p>
+                  <p>Priams <hi>and</hi> Trojans <hi>joy will be no leſſe.</hi>
+                  </p>
+                  <p>The World wiſheth of you (<hi>as</hi> Tacitus of <hi>the</hi> Germans) if this people cannot love us, <hi>that they would hate one another:</hi> And will you give them their hearts deſire? muſt it againe be ſaid, <hi>Thy per<g ref="char:EOLhyphen"/>dition is of thy ſelf,</hi> Oh Iſrael! <hi>Oh England!</hi>
+                  </p>
+                  <p>'Tis ſaid of the ſtone <hi>Scyrus,</hi> that while <hi>it is whole,</hi> it ſwims on the water, but <hi>being broken,</hi> it ſinkes: Chriſtians, there is yet hope, that being whole and <hi>united in love,</hi> we may <hi>ſwim</hi> above all the waters that flow in upon us <hi>like mighty flouds;</hi> but if we breake and divide, we are like <hi>to ſinke,</hi> every Womans child of us. <hi>Many other Arguments may be uſed, but I hope a few words will be enough to the wiſe: onely theſe three to conclude with.</hi>
+                  </p>
+                  <p>Firſt, <hi>The Beaſts of the field are</hi> not onely at peace with us, but <hi>at peace among themſelves:</hi> they eſpeci<g ref="char:EOLhyphen"/>ally
+<pb n="49" facs="tcp:54734:26"/>who are of the ſame kinde agree together, <hi>Saevis futer ſe convenit urſis,</hi> the wilde and ſavage Beares agree among themſelves.</p>
+                  <p>
+                     <hi>What?</hi> ſhall the Lion lye downe with the Lambe, and the Leopard with the Kid, <hi>to teach Saints the way?</hi> the Oxe and the Aſſe have <hi>more knowledge</hi> then my people, <hi>ſaid God of Iſrael;</hi> and may we not ſay of the Elephants and Stags, they have <hi>more love</hi> then Chriſtians? they will help and ſupport one another, but Chriſtians—</p>
+                  <p>Secondly, <hi>wicked men, Brethren in iniquity agree together,</hi> Luk. 23.12. <hi>Look to it Chriſtians.</hi> That <hi>very ſame day</hi> Pilate <hi>and</hi> Herod were made friends together, who <hi>before</hi> were at enmity among them<g ref="char:EOLhyphen"/>ſelves. <hi>Can ye reade this and not bluſh?</hi>
+                  </p>
+                  <p>
+                     <hi>That very day that Chriſt was to be abaſed, enemies became friends, and at this day when Chriſt is to be advanced, friends become enemies.</hi> Chriſtians where are your hearts?</p>
+                  <p>Thirdly, <hi>The Devills agree among themſelves,</hi> and as I may ſay, <hi>love one another,</hi> though it be but <hi>a de<g ref="char:EOLhyphen"/>viliſh love, Mar.</hi> 5.3. from <hi>v.</hi> 23. to 27. <hi>mark</hi> it I be<g ref="char:EOLhyphen"/>ſeech you, They will not caſt out one another.</p>
+                  <p>Do the <hi>Devills love</hi> their Kingdome <hi>ſo well</hi> that they will not divide it? and <hi>do ye love ours ſo ill,</hi> as to divide it and breake it? <hi>will it not be bitterneſs in the latter end? Mat.</hi> 2.45. they go and call one another, and take poſſeſſion and dwell there; <hi>What, can Devills dwell together, and cannot Chriſtians?</hi> Oh! with what bleeding hearts ſhould we think of this, that the children of Hell ſhould be wiſer in their Generations then the children of Heaven.</p>
+                  <p>I ſhall conclude with that Scripture, <hi>Phil.</hi> 2. <hi>If therefore there be any conſolation in Chriſt, if any comfort of love, if any fellowſhip of the ſpirit, if any bowels and mercies, fulfil ye my joy, that ye be like<g ref="char:EOLhyphen"/>minded,
+<pb facs="tcp:54734:27" rendition="simple:additions"/>having the ſame love, being of one accord, of one minde. Let nothing be done through ſtrife or vain glo<g ref="char:EOLhyphen"/>ry, but in lowlineſſe of minde, let each eſteeme other better then himſelfe; looke not every man on his owne things, but every man alſo on the things of others. Let this minde be in you, which was alſo in Chriſt Jeſus.</hi>
+                  </p>
+                  <p>
+                     <hi>Chriſtians,</hi> I would I were able to <hi>expreſſe</hi> my ſelf with <hi>more affection,</hi> in beſeeching you to love one another; <hi>I beſeech you, yea with beſeechings I beſeech you love one another.</hi> Could I but <hi>paint</hi> out before you the <hi>pantings</hi> of my heart, and ſet <hi>ſighes</hi> before your <hi>ſight,</hi> and draw a draught of the <hi>groans</hi> which theſe conſiderations draw from my heart. <hi>But</hi>—All I will or can ſay is <hi>love, love, love;</hi> The <hi>love</hi> of God and the <hi>God</hi> of love conſtrain you to <hi>love</hi> one ano<g ref="char:EOLhyphen"/>ther: that it may <hi>at laſt</hi> be ſaid of Chriſtians as it was <hi>at firſt, behold</hi> how they love one another.</p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:54734:27"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
